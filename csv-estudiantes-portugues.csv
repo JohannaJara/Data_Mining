@@ -1,0 +1,650 @@
+﻿escuela;sexo;edad;direccion;tam_fami;fam_estado;edu_madre;edu_padre;Mjob;Fjob;razon;tutor;tiempo_viaje;tiempo_estudio;failures;schoolsup;famsup;paid;activities;nursery;higher;internet;romantic;famrel;freetime;goout;Dalc;Walc;salud;ausencias;G1;G2;G3
+GP;mujer;18;urbano;GT3;separados;4;4;at_home;teacher;course;mother;15 a 30 min;2;0;yes;no;no;no;yes;yes;no;no;muy buena;medio;alto;1;1;regular;4;0;11;11
+GP;mujer;17;urbano;GT3;juntos;1;1;at_home;other;course;father;menos de 15min;2;0;no;yes;no;no;no;yes;yes;no;;medio;medio;1;1;regular;2;9;11;11
+GP;mujer;15;urbano;LE3;juntos;1;1;at_home;other;other;mother;menos de 15min;2;0;yes;no;no;no;yes;yes;yes;no;muy buena;medio;poco;2;3;regular;6;12;13;12
+GP;mujer;15;urbano;GT3;juntos;;2;health;services;home;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;yes;buena;poco;poco;1;1;muy buena;0;14;14;14
+GP;mujer;16;urbano;GT3;juntos;3;3;other;other;home;father;menos de 15min;2;0;no;yes;no;no;yes;yes;no;no;muy buena;medio;poco;1;2;muy buena;0;11;13;13
+GP;hombre;16;;LE3;juntos;4;3;services;other;reputation;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;alto;poco;1;2;;6;12;12;13
+GP;hombre;16;;LE3;juntos;2;2;other;other;home;mother;menos de 15min;2;0;no;no;no;no;yes;yes;yes;no;muy buena;alto;alto;1;1;regular;0;13;12;13
+GP;mujer;17;urbano;GT3;;4;4;other;teacher;home;mother;15 a 30 min;2;0;yes;yes;no;no;yes;yes;no;no;muy buena;;alto;1;1;muy mala;2;10;13;13
+;hombre;15;urbano;LE3;separados;3;;services;other;home;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;poco;poco;1;1;muy mala;0;15;16;17
+;masculino;15;urbano;GT3;juntos;3;4;other;other;home;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;muy alto;muy poco;1;1;muy buena;0;12;12;13
+;femenino;15;urbano;GT3;juntos;4;4;teacher;health;reputation;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;buena;medio;medio;1;2;mala;2;14;14;14
+GP;femenino;15;urbano;GT3;juntos;2;1;services;other;reputation;father;30 min a 1 hora;3;0;no;yes;no;yes;yes;yes;yes;no;excelente;poco;;1;1;buena;0;10;12;13
+GP;masculino;15;urbano;LE3;juntos;4;4;health;services;course;father;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;medio;1;3;muy buena;0;12;13;12
+GP;masculino;15;urbano;GT3;juntos;4;3;teacher;other;course;mother;15 a 30 min;2;0;no;yes;no;no;yes;yes;yes;no;excelente;alto;medio;1;2;regular;0;12;12;13
+GP;masculino;15;urbano;GT3;separados;2;2;other;other;home;other;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;yes;muy buena;muy alto;poco;1;1;regular;0;14;14;15
+GP;femenino;16;urbano;GT3;juntos;4;4;health;other;home;mother;menos de 15min;1;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;alto;1;2;mala;6;17;17;17
+GP;femenino;16;urbano;GT3;juntos;4;4;;services;reputation;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;no;buena;poco;medio;1;2;mala;10;13;13;14
+GP;femenino;16;urbano;GT3;juntos;3;3;other;other;reputation;mother;;2;0;yes;yes;no;yes;yes;yes;no;no;excelente;medio;poco;1;1;buena;2;13;14;14
+GP;masculino;17;urbano;GT3;;3;2;services;services;course;mother;menos de 15min;1;3;no;yes;yes;yes;yes;yes;yes;no;excelente;muy alto;muy alto;2;4;muy buena;2;8;8;7
+GP;masculino;16;urbano;LE3;juntos;4;3;health;;home;father;menos de 15min;1;0;no;no;no;yes;yes;yes;yes;no;buena;muy poco;medio;1;3;muy buena;6;12;12;12
+GP;masculino;15;urbano;GT3;juntos;4;3;teacher;other;reputation;;menos de 15min;2;0;no;no;no;no;yes;yes;yes;no;;alto;muy poco;1;1;muy mala;0;12;13;14
+GP;masculino;15;urbano;GT3;juntos;4;4;health;health;;father;menos de 15min;1;0;no;yes;yes;no;yes;yes;yes;no;excelente;alto;poco;1;1;muy buena;0;11;12;12
+GP;hombre;16;urbano;LE3;juntos;4;2;teacher;other;course;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;no;muy buena;muy alto;muy poco;1;3;muy buena;0;12;13;14
+GP;hombre;16;urbano;LE3;juntos;2;2;other;other;reputation;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;;alto;2;4;muy buena;2;10;10;10
+GP;femenino;15;rural;GT3;juntos;2;4;services;health;course;mother;menos de 15min;3;0;yes;yes;no;yes;yes;yes;yes;no;muy buena;medio;poco;1;1;muy buena;2;10;11;10
+GP;femenino;16;urbano;GT3;juntos;2;2;services;services;home;mother;menos de 15min;1;0;no;yes;no;no;no;yes;yes;no;muy mala;poco;;1;3;muy buena;6;10;11;12
+GP;hombre;15;urbano;GT3;juntos;2;2;other;other;home;mother;menos de 15min;1;0;no;yes;no;no;yes;yes;yes;no;muy buena;poco;poco;1;2;muy buena;8;11;12;12
+GP;hombre;15;urbano;GT3;juntos;4;2;health;services;other;mother;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;mala;poco;alto;2;4;;0;11;11;11
+GP;hombre;16;urbano;LE3;separados;3;4;services;other;home;mother;menos de 15min;2;0;yes;yes;yes;yes;yes;yes;yes;no;excelente;medio;medio;1;1;muy buena;2;12;12;13
+GP;hombre;16;urbano;GT3;juntos;4;4;teacher;teacher;home;mother;menos de 15min;2;0;no;yes;yes;yes;yes;yes;yes;yes;muy buena;alto;muy alto;5;5;muy buena;4;12;11;12
+GP;hombre;15;urbano;GT3;juntos;4;4;health;services;home;mother;menos de 15min;2;0;no;yes;yes;no;no;yes;yes;no;excelente;alto;poco;3;4;muy buena;0;10;11;11
+GP;hombre;15;urbano;GT3;juntos;4;4;services;services;reputation;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;muy poco;1;1;muy buena;2;15;15;15
+GP;hombre;15;rural;GT3;juntos;4;3;teacher;at_home;course;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;muy alto;poco;1;1;muy buena;0;13;14;15
+GP;hombre;15;urbano;LE3;juntos;3;3;other;other;course;mother;menos de 15min;2;0;no;no;no;yes;no;yes;yes;no;excelente;medio;poco;1;1;mala;0;13;12;12
+GP;hombre;16;urbano;GT3;juntos;3;2;other;other;home;mother;menos de 15min;1;0;no;yes;no;no;no;yes;yes;no;excelente;alto;medio;1;1;muy buena;4;12;12;12
+GP;femenino;15;urbano;GT3;juntos;2;3;other;other;other;father;15 a 30 min;1;0;no;yes;no;yes;yes;yes;no;no;buena;muy alto;muy poco;1;1;muy buena;4;11;11;11
+GP;hombre;15;urbano;LE3;juntos;4;3;teacher;services;home;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;no;excelente;alto;medio;1;1;buena;0;14;14;14
+GP;hombre;16;rural;GT3;separados;4;4;other;teacher;reputation;mother;15 a 30 min;3;0;no;yes;no;yes;yes;yes;yes;yes;mala;alto;medio;1;1;muy buena;4;13;13;13
+GP;femenino;15;rural;GT3;juntos;3;4;services;health;course;mother;menos de 15min;3;0;yes;yes;no;yes;yes;yes;yes;no;muy buena;medio;poco;1;1;muy buena;2;11;12;12
+GP;femenino;15;rural;GT3;juntos;2;2;at_home;other;reputation;mother;menos de 15min;1;0;yes;yes;no;yes;yes;yes;no;no;muy buena;medio;muy poco;1;1;mala;8;14;13;12
+GP;femenino;16;urbano;LE3;juntos;2;2;other;other;home;mother;15 a 30 min;2;0;no;yes;no;yes;no;yes;yes;yes;buena;medio;medio;1;2;regular;16;11;11;10
+GP;hombre;15;urbano;LE3;juntos;4;4;teacher;other;home;other;menos de 15min;1;0;no;yes;no;no;no;yes;yes;yes;excelente;alto;medio;2;4;muy buena;8;10;11;11
+GP;hombre;15;urbano;GT3;juntos;4;4;services;teacher;course;father;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;medio;1;1;muy buena;0;14;15;15
+GP;hombre;15;urbano;GT3;juntos;2;2;services;services;course;father;menos de 15min;1;0;yes;yes;no;no;yes;yes;yes;no;excelente;alto;muy poco;1;1;muy mala;0;9;10;10
+GP;femenino;16;urbano;LE3;juntos;2;2;other;at_home;course;father;15 a 30 min;2;1;yes;no;no;yes;yes;yes;yes;no;muy buena;medio;medio;2;2;muy buena;14;10;11;11
+GP;femenino;15;urbano;LE3;separados;4;3;other;other;course;mother;menos de 15min;2;0;yes;yes;yes;yes;yes;yes;yes;yes;excelente;poco;poco;1;1;muy buena;4;10;11;11
+GP;femenino;16;urbano;LE3;separados;3;3;other;services;home;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;mala;medio;muy alto;1;4;regular;6;13;12;13
+GP;hombre;16;urbano;GT3;juntos;;3;health;services;reputation;mother;menos de 15min;4;0;no;no;no;yes;yes;yes;yes;no;muy buena;poco;poco;1;1;mala;2;17;17;17
+GP;hombre;15;urbano;GT3;juntos;4;2;teacher;other;home;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;no;no;muy buena;medio;medio;2;2;muy buena;4;11;12;13
+GP;mujer;15;urbano;GT3;juntos;4;4;services;teacher;other;father;menos de 15min;2;0;yes;yes;no;yes;no;yes;yes;no;muy buena;alto;alto;1;1;regular;2;13;12;12
+GP;mujer;16;urbano;LE3;juntos;2;2;services;services;course;mother;30 min a 1 hora;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;2;3;buena;0;14;13;13
+GP;mujer;15;urbano;LE3;juntos;4;2;health;other;other;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;1;1;muy buena;0;16;14;16
+GP;hombre;15;urbano;LE3;separados;4;2;health;health;other;father;15 a 30 min;1;0;no;no;no;no;yes;yes;no;no;excelente;muy alto;muy alto;3;4;muy buena;4;10;9;9
+GP;mujer;15;urbano;GT3;juntos;4;4;services;services;course;mother;menos de 15min;1;0;yes;yes;no;no;yes;yes;yes;no;buena;medio;alto;2;3;muy buena;0;13;12;12
+GP;mujer;15;urbano;LE3;separados;3;3;other;other;other;mother;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;excelente;medio;alto;4;4;muy mala;0;13;12;13
+GP;mujer;16;urbano;GT3;separados;2;1;other;other;other;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;excelente;medio;alto;1;1;;2;12;13;12
+GP;mujer;15;urbano;GT3;separados;4;3;services;services;reputation;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;poco;1;1;muy mala;0;15;14;15
+GP;hombre;15;urbano;GT3;juntos;4;4;teacher;health;reputation;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;no;no;buena;poco;poco;1;1;muy buena;8;15;15;16
+GP;hombre;15;urbano;LE3;juntos;1;2;other;at_home;home;father;menos de 15min;2;0;yes;yes;no;yes;yes;yes;yes;no;muy buena;medio;poco;1;1;muy buena;0;14;13;14
+GP;mujer;16;urbano;GT3;juntos;4;2;services;other;course;mother;menos de 15min;2;0;no;yes;yes;no;yes;yes;yes;no;muy buena;poco;;1;1;muy buena;2;16;15;16
+GP;mujer;16;;GT3;juntos;4;4;health;teacher;other;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;no;no;mala;alto;alto;2;3;buena;0;17;16;16
+GP;mujer;16;urbano;GT3;juntos;1;1;services;services;course;father;mas de 1 hora;1;0;yes;yes;no;yes;no;yes;yes;yes;;muy alto;muy alto;5;5;muy buena;0;10;10;16
+GP;mujer;16;urbano;LE3;juntos;1;2;other;services;reputation;father;menos de 15min;2;0;yes;no;no;yes;yes;yes;yes;no;muy buena;alto;medio;1;1;muy mala;0;13;13;10
+GP;mujer;16;urbano;GT3;juntos;4;3;teacher;health;home;mother;menos de 15min;3;0;yes;yes;no;yes;yes;yes;yes;no;buena;alto;alto;2;4;buena;0;14;13;13
+GP;mujer;15;urbano;LE3;juntos;4;3;services;services;reputation;father;menos de 15min;2;0;yes;no;no;yes;yes;yes;yes;yes;muy buena;alto;alto;2;4;mala;0;13;12;12
+GP;mujer;16;urbano;LE3;juntos;4;3;teacher;services;course;mother;30 min a 1 hora;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;;medio;1;2;muy mala;2;16;15;16
+GP;hombre;15;urbano;GT3;separados;4;4;other;services;reputation;mother;menos de 15min;4;0;no;yes;no;yes;no;yes;yes;yes;muy mala;medio;medio;5;5;regular;0;11;12;12
+GP;mujer;16;urbano;GT3;juntos;3;1;services;other;course;mother;menos de 15min;4;0;yes;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;1;2;muy buena;0;10;9;10
+GP;mujer;15;rural;LE3;juntos;2;2;health;services;reputation;mother;15 a 30 min;2;0;yes;yes;no;no;yes;yes;yes;no;muy buena;muy poco;medio;1;3;buena;0;11;10;11
+GP;mujer;15;rural;LE3;juntos;3;1;other;other;reputation;father;15 a 30 min;4;0;no;yes;no;no;no;yes;yes;no;muy buena;alto;poco;2;3;regular;6;15;15;15
+GP;hombre;16;urbano;GT3;juntos;3;1;other;other;reputation;father;15 a 30 min;4;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;poco;1;1;muy buena;2;13;11;11
+GP;hombre;15;urbano;GT3;juntos;;2;other;other;course;mother;menos de 15min;4;0;no;no;no;no;yes;yes;yes;no;buena;medio;medio;1;1;regular;0;11;9;10
+GP;mujer;15;rural;GT3;juntos;1;1;other;other;reputation;mother;menos de 15min;2;0;yes;yes;no;no;no;yes;yes;yes;buena;medio;alto;2;4;muy buena;2;13;11;11
+GP;hombre;16;urbano;GT3;juntos;3;1;other;other;reputation;mother;menos de 15min;1;0;no;no;no;yes;yes;yes;no;no;excelente;medio;poco;2;2;muy buena;0;13;13;14
+GP;mujer;16;urbano;GT3;juntos;3;3;other;services;home;;menos de 15min;2;0;yes;yes;no;yes;yes;yes;yes;no;muy buena;medio;medio;2;4;muy buena;4;11;11;11
+GP;hombre;15;urbano;GT3;juntos;4;3;teacher;other;home;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;medio;2;3;muy buena;0;11;11;11
+GP;hombre;15;urbano;GT3;juntos;4;0;teacher;other;course;mother;15 a 30 min;4;0;no;no;no;yes;yes;yes;yes;no;buena;alto;medio;1;1;muy mala;0;12;11;11
+GP;mujer;16;urbano;GT3;juntos;2;2;other;other;reputation;mother;menos de 15min;4;0;no;no;no;no;yes;yes;yes;yes;excelente;poco;medio;1;3;regular;1;13;13;13
+GP;hombre;17;urbano;GT3;juntos;2;1;other;other;home;mother;15 a 30 min;1;3;yes;yes;no;yes;yes;no;yes;no;muy buena;muy alto;muy poco;1;1;regular;0;9;9;10
+GP;mujer;16;urbano;GT3;juntos;3;4;at_home;other;course;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;mala;alto;medio;1;2;regular;14;12;11;11
+GP;hombre;15;urbano;GT3;juntos;2;3;other;services;course;father;menos de 15min;1;0;yes;yes;no;yes;no;yes;yes;yes;buena;poco;poco;1;3;regular;0;11;11;12
+GP;hombre;15;urbano;GT3;juntos;2;3;other;other;home;mother;menos de 15min;3;0;yes;no;no;no;no;yes;yes;no;excelente;medio;poco;1;2;muy buena;2;10;9;9
+GP;mujer;15;urbano;LE3;juntos;3;2;services;other;reputation;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;alto;1;1;muy buena;4;12;11;11
+GP;hombre;15;urbano;LE3;juntos;2;2;services;services;;mother;15 a 30 min;2;0;no;no;yes;yes;yes;yes;yes;no;excelente;medio;medio;1;3;buena;2;13;12;13
+GP;mujer;15;urbano;GT3;juntos;1;1;;other;home;father;menos de 15min;2;0;no;yes;no;yes;no;yes;yes;no;muy buena;medio;poco;2;3;buena;2;13;12;12
+GP;mujer;15;;GT3;juntos;4;4;services;services;reputation;father;15 a 30 min;2;0;no;no;no;no;yes;yes;yes;yes;muy buena;alto;alto;2;3;muy buena;4;12;11;12
+GP;mujer;16;urbano;LE3;juntos;2;2;at_home;other;course;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;no;no;muy buena;medio;alto;1;2;mala;6;13;11;11
+GP;mujer;15;urbano;GT3;juntos;4;2;other;other;reputation;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;no;excelente;medio;medio;1;3;muy mala;4;15;15;15
+GP;hombre;16;urbano;GT3;juntos;2;2;services;other;reputation;father;15 a 30 min;2;0;no;no;no;yes;no;yes;yes;no;muy buena;alto;poco;1;1;regular;6;12;10;11
+GP;hombre;16;urbano;LE3;separados;4;4;teacher;health;reputation;mother;;2;0;no;yes;no;no;yes;yes;no;no;muy buena;muy poco;medio;3;5;muy buena;6;9;9;10
+GP;mujer;16;urbano;GT3;juntos;3;3;other;other;home;mother;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;yes;muy buena;medio;medio;1;3;buena;2;9;11;11
+GP;mujer;15;urbano;GT3;juntos;4;3;services;other;reputation;mother;menos de 15min;1;0;no;no;no;yes;yes;yes;yes;no;muy buena;muy alto;muy alto;1;3;muy mala;6;14;13;13
+GP;mujer;16;urbano;LE3;juntos;3;1;other;other;home;father;menos de 15min;2;0;yes;yes;no;no;yes;yes;no;no;buena;medio;medio;2;3;mala;0;12;13;12
+GP;mujer;16;urbano;GT3;juntos;4;2;teacher;services;home;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;medio;medio;1;1;muy mala;2;13;14;14
+GP;hombre;15;urbano;LE3;juntos;2;2;services;health;reputation;mother;menos de 15min;4;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;alto;1;1;buena;2;11;12;12
+GP;mujer;15;rural;GT3;juntos;;1;at_home;other;home;mother;15 a 30 min;4;0;yes;yes;yes;yes;yes;yes;yes;no;buena;muy poco;poco;1;1;muy mala;4;13;13;13
+GP;hombre;16;rural;GT3;juntos;4;3;services;other;reputation;mother;15 a 30 min;1;0;yes;yes;yes;yes;no;yes;yes;no;buena;medio;medio;1;1;buena;6;9;11;11
+GP;mujer;16;urbano;GT3;;2;1;other;other;course;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;no;yes;muy buena;medio;muy alto;1;1;muy buena;0;13;12;12
+GP;mujer;16;urbano;GT3;juntos;4;4;other;other;reputation;mother;menos de 15min;1;0;no;no;no;yes;no;yes;yes;no;excelente;medio;alto;1;2;muy mala;4;12;13;13
+GP;mujer;16;urbano;GT3;juntos;4;3;other;at_home;course;mother;menos de 15min;3;0;yes;yes;no;no;yes;yes;yes;no;excelente;medio;muy alto;1;1;regular;2;12;13;13
+GP;hombre;16;urbano;GT3;juntos;4;4;services;services;other;mother;menos de 15min;1;0;yes;yes;no;yes;yes;yes;yes;no;muy buena;muy alto;muy alto;5;5;buena;12;9;9;8
+GP;hombre;16;urbano;GT3;juntos;4;4;services;teacher;other;father;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;alto;medio;1;1;buena;0;16;16;16
+GP;hombre;15;urbano;GT3;juntos;4;4;services;other;course;mother;menos de 15min;1;0;no;yes;yes;yes;no;yes;yes;no;excelente;medio;medio;1;1;muy buena;2;12;13;12
+GP;mujer;15;urbano;GT3;juntos;3;2;services;other;home;mother;15 a 30 min;2;0;yes;yes;no;no;yes;yes;yes;no;muy buena;medio;muy alto;1;1;mala;16;11;10;10
+GP;hombre;15;urbano;GT3;separados;3;4;services;other;course;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;alto;alto;1;1;muy mala;0;16;16;16
+GP;mujer;15;urbano;GT3;separados;3;3;other;health;reputation;father;menos de 15min;4;0;yes;no;no;no;yes;yes;no;no;muy buena;medio;medio;1;1;buena;10;10;10;10
+GP;mujer;15;;GT3;juntos;2;2;other;other;course;mother;menos de 15min;4;0;yes;yes;no;no;yes;yes;yes;no;excelente;muy poco;poco;1;1;regular;4;10;10;10
+GP;hombre;16;urbano;GT3;juntos;3;3;services;other;home;father;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;no;;medio;medio;1;1;muy buena;4;13;14;14
+GP;hombre;15;rural;GT3;juntos;4;4;;other;home;father;mas de 1 hora;4;0;no;yes;no;yes;yes;yes;yes;yes;muy mala;medio;muy alto;3;5;muy mala;8;12;10;11
+GP;mujer;16;urbano;LE3;juntos;4;4;health;health;other;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;yes;excelente;alto;muy alto;1;1;buena;2;15;15;14
+GP;hombre;15;urbano;LE3;separados;4;4;teacher;teacher;course;mother;menos de 15min;1;0;no;no;no;yes;yes;yes;yes;no;excelente;muy alto;medio;1;1;buena;4;13;14;14
+GP;mujer;16;rural;GT3;juntos;3;3;services;other;reputation;father;menos de 15min;3;0;yes;yes;no;yes;yes;yes;yes;no;muy buena;muy poco;poco;1;1;mala;4;11;11;11
+GP;mujer;16;urbano;GT3;juntos;2;2;at_home;other;home;mother;menos de 15min;2;1;yes;no;no;yes;yes;yes;yes;no;buena;muy poco;poco;1;1;muy buena;12;8;10;10
+GP;hombre;15;urbano;LE3;juntos;4;2;teacher;other;course;mother;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;buena;;poco;1;1;regular;10;18;17;18
+GP;hombre;15;rural;GT3;juntos;2;1;health;services;reputation;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;excelente;alto;;1;1;muy buena;4;10;9;10
+GP;hombre;16;urbano;GT3;juntos;4;4;teacher;teacher;course;father;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;alto;alto;1;2;muy buena;6;16;14;14
+GP;hombre;15;urbano;GT3;juntos;4;4;other;teacher;reputation;father;15 a 30 min;2;0;no;yes;no;yes;yes;yes;no;no;muy buena;alto;medio;1;1;mala;4;16;15;16
+GP;hombre;16;urbano;GT3;juntos;3;3;other;services;home;;15 a 30 min;1;0;no;no;no;yes;yes;yes;yes;no;excelente;alto;poco;1;1;;6;14;14;15
+GP;hombre;17;rural;GT3;juntos;;3;other;other;course;father;30 min a 1 hora;2;1;no;yes;no;yes;yes;yes;yes;no;excelente;poco;alto;1;4;muy buena;14;12;11;11
+GP;hombre;15;urbano;GT3;juntos;3;4;other;other;reputation;father;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;buena;alto;medio;1;2;buena;2;14;13;14
+GP;mujer;15;urbano;GT3;juntos;1;2;at_home;services;course;mother;menos de 15min;2;0;no;no;no;no;no;yes;yes;no;buena;poco;medio;1;2;muy mala;0;14;14;14
+GP;hombre;15;urbano;GT3;juntos;2;2;services;services;home;father;menos de 15min;4;0;no;yes;no;yes;yes;yes;yes;no;excelente;muy alto;alto;1;2;muy buena;6;14;13;13
+GP;mujer;16;urbano;LE3;juntos;2;4;other;health;course;father;;2;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;poco;poco;1;2;muy buena;2;14;12;13
+GP;hombre;16;urbano;GT3;;4;4;health;other;course;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;no;buena;alto;alto;1;4;muy buena;4;12;13;13
+GP;mujer;16;urbano;GT3;juntos;2;2;other;;home;mother;menos de 15min;2;0;no;no;no;no;yes;yes;yes;yes;excelente;alto;alto;1;1;muy buena;0;12;11;11
+GP;hombre;15;urbano;GT3;juntos;3;4;services;services;home;father;menos de 15min;1;0;yes;no;no;no;yes;yes;yes;no;excelente;muy alto;muy alto;3;2;muy buena;2;9;9;9
+GP;mujer;15;urbano;LE3;separados;3;4;other;other;home;mother;menos de 15min;2;0;yes;no;no;yes;yes;yes;yes;yes;excelente;medio;poco;1;1;muy mala;0;10;11;11
+GP;mujer;19;;GT3;juntos;0;1;at_home;other;course;other;menos de 15min;2;2;no;yes;no;no;no;no;no;no;buena;alto;poco;1;1;muy buena;0;9;10;11
+GP;hombre;16;rural;GT3;juntos;4;4;teacher;teacher;;mother;menos de 15min;1;0;no;no;no;yes;yes;yes;yes;no;buena;muy alto;muy alto;2;5;buena;8;14;14;15
+GP;hombre;16;urbano;GT3;juntos;2;3;other;other;course;mother;15 a 30 min;3;0;no;yes;no;no;no;yes;yes;yes;buena;poco;medio;2;2;muy mala;4;13;12;13
+GP;mujer;15;rural;GT3;juntos;3;4;services;teacher;course;father;15 a 30 min;3;0;no;yes;no;no;yes;yes;yes;yes;muy buena;poco;poco;2;2;muy buena;0;10;11;12
+GP;mujer;18;urbano;GT3;juntos;2;1;services;other;reputation;mother;menos de 15min;2;3;no;yes;no;yes;yes;no;yes;yes;excelente;alto;muy alto;1;3;muy buena;10;10;9;8
+GP;mujer;17;urbano;LE3;separados;2;1;other;other;course;mother;30 min a 1 hora;1;0;no;yes;no;no;yes;yes;yes;no;buena;poco;poco;1;2;muy buena;8;11;10;11
+GP;mujer;15;urbano;GT3;juntos;1;1;at_home;other;course;mother;30 min a 1 hora;1;0;no;yes;no;yes;no;yes;yes;yes;muy buena;medio;medio;1;2;buena;6;11;12;13
+GP;mujer;17;urbano;LE3;juntos;2;2;other;other;course;father;menos de 15min;1;0;no;yes;no;no;yes;yes;yes;yes;buena;alto;alto;1;3;muy buena;2;13;12;12
+GP;mujer;16;urbano;GT3;separados;3;4;services;other;course;father;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;buena;poco;muy poco;1;4;muy buena;12;15;13;14
+GP;hombre;16;urbano;GT3;juntos;2;1;at_home;other;course;mother;mas de 1 hora;1;0;no;no;no;no;yes;yes;no;no;buena;poco;muy poco;1;1;mala;4;9;9;11
+GP;mujer;16;urbano;GT3;separados;2;2;other;other;home;mother;menos de 15min;1;1;no;no;no;no;yes;yes;no;no;excelente;medio;alto;1;1;muy buena;12;13;11;11
+GP;hombre;15;rural;GT3;juntos;3;4;at_home;teacher;course;mother;mas de 1 hora;2;0;no;yes;no;no;yes;yes;no;yes;excelente;medio;medio;1;1;muy buena;2;12;11;11
+GP;mujer;15;urbano;GT3;juntos;4;4;services;at_home;course;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;medio;medio;1;1;muy buena;4;13;14;15
+GP;hombre;17;rural;GT3;juntos;3;4;at_home;other;course;mother;30 min a 1 hora;2;0;no;no;no;no;yes;yes;no;no;excelente;alto;muy alto;2;4;muy buena;2;10;9;10
+GP;mujer;16;rural;GT3;juntos;1;1;at_home;other;course;mother;mas de 1 hora;2;0;no;yes;no;no;yes;yes;no;no;excelente;muy poco;medio;1;1;regular;0;14;13;13
+GP;hombre;18;urbano;LE3;juntos;;1;services;services;course;mother;15 a 30 min;1;0;no;no;no;yes;yes;yes;yes;yes;buena;medio;alto;4;5;buena;2;11;11;12
+GP;mujer;18;urbano;GT3;separados;3;2;other;services;course;other;menos de 15min;3;0;no;yes;no;yes;no;yes;yes;yes;muy buena;medio;medio;5;1;muy buena;10;12;11;11
+GP;mujer;16;rural;GT3;juntos;1;1;other;services;reputation;mother;15 a 30 min;1;0;no;yes;no;yes;yes;yes;no;yes;buena;medio;medio;1;2;muy mala;8;12;11;11
+GP;mujer;16;urbano;GT3;separados;3;3;other;other;course;other;15 a 30 min;1;0;no;yes;no;yes;no;yes;yes;yes;muy buena;medio;poco;1;1;muy buena;4;9;9;10
+GP;hombre;16;urbano;LE3;juntos;1;1;services;other;course;mother;menos de 15min;2;2;no;no;no;no;yes;yes;no;yes;muy buena;alto;alto;1;3;muy buena;0;10;10;10
+GP;mujer;15;urbano;GT3;juntos;4;4;teacher;teacher;course;mother;15 a 30 min;1;0;no;no;no;yes;yes;yes;yes;no;muy buena;medio;poco;1;1;muy buena;6;13;14;14
+GP;;15;rural;GT3;juntos;1;1;other;other;course;mother;30 min a 1 hora;1;1;no;no;no;yes;yes;yes;yes;yes;excelente;muy alto;muy alto;1;1;muy mala;2;8;9;9
+GP;hombre;15;urbano;GT3;juntos;4;3;teacher;services;course;father;15 a 30 min;4;0;yes;yes;no;no;yes;yes;yes;no;mala;poco;poco;1;1;regular;6;9;11;11
+GP;mujer;15;urbano;GT3;separados;3;3;services;services;home;mother;menos de 15min;2;0;no;no;no;no;no;yes;no;yes;muy mala;medio;poco;2;3;muy mala;24;9;8;9
+GP;hombre;16;urbano;GT3;juntos;4;4;services;services;course;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;no;excelente;medio;medio;1;3;muy buena;0;15;13;13
+GP;hombre;16;urbano;LE3;juntos;2;2;services;services;reputation;father;15 a 30 min;1;0;no;yes;no;yes;yes;yes;yes;no;mala;medio;medio;2;2;mala;4;12;11;11
+GP;mujer;15;urbano;GT3;juntos;4;4;teacher;services;course;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;no;muy buena;poco;poco;1;1;muy buena;2;13;13;13
+GP;mujer;16;urbano;LE3;juntos;1;1;at_home;at_home;course;mother;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;buena;alto;alto;3;3;muy mala;4;10;11;11
+GP;hombre;17;urbano;GT3;juntos;2;1;other;other;home;mother;menos de 15min;1;0;no;yes;no;no;yes;yes;yes;no;excelente;alto;muy alto;1;2;muy buena;22;9;7;6
+GP;mujer;15;urbano;GT3;juntos;1;1;other;services;course;father;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;poco;1;2;muy buena;0;12;12;12
+GP;mujer;15;urbano;LE3;separados;2;1;at_home;other;home;mother;15 a 30 min;1;0;no;yes;no;yes;yes;no;yes;yes;muy buena;alto;poco;1;1;muy buena;0;11;10;10
+GP;mujer;15;urbano;GT3;juntos;3;2;health;services;home;father;menos de 15min;2;1;no;yes;no;no;yes;yes;yes;no;buena;medio;poco;1;1;regular;2;11;11;11
+GP;mujer;15;urbano;GT3;juntos;1;2;at_home;other;course;mother;menos de 15min;2;0;no;yes;no;no;no;yes;yes;no;muy buena;medio;poco;1;1;muy buena;6;13;12;13
+GP;mujer;15;urbano;GT3;juntos;1;2;at_home;services;course;father;menos de 15min;2;0;no;no;no;no;no;yes;no;yes;mala;medio;alto;2;4;muy mala;6;11;11;11
+GP;hombre;16;urbano;GT3;juntos;4;4;teacher;teacher;course;mother;menos de 15min;1;0;no;yes;no;no;yes;no;yes;yes;buena;medio;poco;2;1;muy buena;16;9;9;8
+GP;hombre;15;urbano;LE3;separados;2;1;services;other;course;mother;mas de 1 hora;1;0;no;no;no;no;yes;yes;yes;no;muy buena;muy alto;muy alto;2;5;muy buena;0;12;11;11
+GP;hombre;18;urbano;LE3;juntos;;1;other;other;course;mother;menos de 15min;1;2;no;no;no;no;yes;no;yes;yes;mala;medio;muy alto;2;5;buena;0;11;9;0
+GP;hombre;16;urbano;;juntos;2;1;at_home;other;course;mother;menos de 15min;1;1;no;no;no;yes;yes;yes;no;yes;muy buena;alto;alto;3;5;muy buena;6;9;10;10
+GP;mujer;15;rural;GT3;juntos;3;3;services;services;reputation;other;15 a 30 min;3;0;no;yes;yes;yes;yes;yes;yes;yes;muy buena;poco;muy poco;2;3;regular;2;13;13;13
+GP;hombre;19;urbano;GT3;juntos;3;2;services;at_home;home;mother;menos de 15min;1;0;no;yes;no;no;yes;no;yes;yes;muy buena;muy alto;alto;1;1;buena;6;11;9;11
+GP;mujer;17;urbano;GT3;juntos;4;4;other;teacher;course;mother;menos de 15min;1;0;yes;yes;no;no;yes;yes;no;yes;muy buena;poco;muy poco;1;1;buena;0;13;13;13
+GP;hombre;15;rural;GT3;juntos;2;3;at_home;services;course;mother;menos de 15min;2;0;yes;no;yes;yes;yes;yes;no;no;muy buena;alto;alto;1;1;muy mala;0;7;8;8
+GP;hombre;17;rural;LE3;juntos;1;2;other;other;reputation;mother;menos de 15min;1;3;no;no;no;no;yes;yes;no;no;mala;poco;poco;3;3;muy buena;14;9;8;10
+GP;mujer;18;rural;GT3;juntos;1;1;at_home;other;course;mother;30 min a 1 hora;1;3;no;yes;no;yes;no;yes;no;no;excelente;poco;muy alto;1;5;buena;6;11;10;11
+GP;hombre;16;rural;GT3;juntos;2;2;at_home;other;course;mother;30 min a 1 hora;1;0;no;no;no;no;no;yes;no;no;muy buena;poco;poco;1;2;regular;4;12;10;11
+GP;hombre;16;urbano;GT3;juntos;3;3;other;services;course;father;menos de 15min;2;1;no;yes;no;no;yes;yes;yes;yes;muy buena;muy alto;muy alto;4;4;muy buena;0;10;10;1
+GP;hombre;16;urbano;LE3;juntos;1;2;health;services;course;mother;15 a 30 min;1;2;no;no;no;no;no;yes;yes;no;muy buena;alto;muy alto;3;5;muy buena;0;9;8;10
+GP;hombre;17;rural;LE3;juntos;2;1;at_home;other;course;mother;15 a 30 min;1;1;no;no;yes;yes;yes;no;yes;yes;buena;medio;poco;2;2;muy buena;8;8;8;9
+GP;hombre;17;rural;GT3;juntos;3;2;other;other;course;mother;15 a 30 min;2;2;yes;yes;no;no;yes;yes;yes;yes;muy buena;alto;alto;1;4;regular;4;7;6;8
+GP;hombre;15;urbano;LE3;juntos;1;2;other;other;course;mother;15 a 30 min;1;0;no;no;no;yes;yes;yes;no;no;muy buena;alto;alto;2;4;muy buena;2;8;9;10
+GP;hombre;16;urbano;GT3;juntos;1;3;at_home;services;course;father;menos de 15min;1;1;no;no;no;no;yes;no;yes;no;excelente;medio;medio;1;4;mala;2;9;8;8
+GP;hombre;17;rural;LE3;juntos;1;1;other;services;course;mother;mas de 1 hora;2;0;no;no;no;yes;yes;no;no;yes;excelente;medio;muy alto;1;5;muy buena;0;8;8;8
+GP;hombre;17;urbano;GT3;juntos;3;2;services;services;course;mother;15 a 30 min;1;3;no;yes;no;yes;no;no;no;no;muy buena;muy alto;poco;1;1;mala;10;8;7;8
+GP;hombre;16;urbano;GT3;juntos;2;2;other;other;course;father;menos de 15min;2;0;no;no;no;no;yes;no;yes;no;muy buena;medio;muy alto;2;4;buena;0;9;10;11
+GP;mujer;16;urbano;GT3;juntos;4;2;health;services;home;father;menos de 15min;2;0;no;no;no;no;yes;yes;yes;yes;muy buena;poco;medio;1;1;regular;0;17;17;18
+GP;mujer;16;urbano;GT3;juntos;2;2;other;other;home;mother;menos de 15min;2;0;no;yes;no;no;no;yes;yes;no;excelente;muy poco;muy alto;1;1;buena;0;12;12;13
+GP;mujer;16;urbano;GT3;juntos;4;4;health;health;reputation;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;yes;muy buena;alto;poco;1;1;regular;0;16;16;17
+GP;hombre;16;urbano;GT3;juntos;3;4;;other;course;father;30 min a 1 hora;1;1;no;yes;no;yes;no;yes;yes;no;buena;alto;muy alto;2;4;mala;4;9;9;10
+GP;hombre;16;urbano;GT3;juntos;1;0;other;other;reputation;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;medio;poco;1;1;regular;0;16;17;18
+GP;hombre;17;urbano;LE3;juntos;4;4;teacher;other;reputation;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;alto;alto;1;3;muy buena;0;11;9;10
+GP;mujer;16;urbano;GT3;juntos;1;3;at_home;services;home;mother;menos de 15min;2;0;no;no;no;yes;no;yes;yes;yes;muy buena;medio;muy alto;1;1;regular;0;14;13;13
+GP;mujer;16;urbano;LE3;juntos;3;3;other;other;reputation;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;alto;muy alto;1;1;;0;14;14;15
+GP;hombre;17;urbano;LE3;juntos;4;3;teacher;other;course;mother;15 a 30 min;2;0;no;no;no;yes;yes;yes;yes;no;muy buena;alto;alto;4;4;buena;0;10;11;11
+GP;mujer;16;urbano;GT3;juntos;2;2;services;other;reputation;mother;15 a 30 min;2;0;no;no;no;yes;no;yes;yes;no;buena;alto;alto;1;4;muy buena;0;13;12;14
+GP;hombre;17;urbano;GT3;juntos;3;3;other;other;reputation;father;menos de 15min;2;0;no;no;no;yes;no;yes;yes;no;muy buena;medio;alto;1;4;buena;4;11;9;10
+GP;hombre;16;rural;GT3;juntos;4;2;teacher;services;other;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;medio;medio;3;4;regular;8;10;9;11
+GP;hombre;17;urbano;GT3;juntos;4;3;other;;;mother;menos de 15min;2;0;no;yes;yes;yes;yes;yes;yes;yes;excelente;poco;medio;1;1;mala;4;11;11;13
+GP;hombre;16;urbano;GT3;juntos;4;3;teacher;other;home;mother;menos de 15min;2;0;no;yes;yes;yes;yes;yes;yes;no;buena;alto;;2;3;regular;4;11;10;11
+GP;hombre;16;urbano;GT3;juntos;3;3;services;other;home;mother;;2;0;no;no;no;yes;yes;yes;yes;yes;muy buena;poco;medio;1;2;regular;0;11;12;13
+GP;mujer;17;urbano;GT3;juntos;2;4;services;services;reputation;;menos de 15min;2;0;no;yes;no;yes;yes;yes;no;no;excelente;alto;poco;2;3;muy buena;0;17;18;17
+GP;mujer;17;urbano;LE3;juntos;3;3;other;other;reputation;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;yes;excelente;medio;medio;2;3;muy mala;32;14;13;14
+GP;mujer;16;urbano;GT3;juntos;3;2;other;other;reputation;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy mala;poco;poco;1;2;muy mala;8;14;15;16
+GP;hombre;17;urbano;GT3;juntos;3;3;services;services;other;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;;alto;2;3;buena;6;11;13;14
+GP;hombre;16;urbano;GT3;juntos;1;2;services;services;other;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;yes;buena;medio;medio;1;2;regular;0;10;9;11
+GP;hombre;16;urbano;LE3;juntos;2;1;other;other;course;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;muy buena;poco;medio;1;2;muy buena;0;13;14;16
+GP;mujer;17;urbano;GT3;separados;3;3;health;other;reputation;mother;menos de 15min;2;0;no;yes;no;no;no;yes;yes;yes;buena;medio;medio;1;3;regular;10;12;13;14
+GP;hombre;17;rural;GT3;juntos;1;2;at_home;other;home;mother;menos de 15min;2;0;no;no;no;no;yes;yes;no;no;buena;muy poco;medio;1;5;regular;6;9;9;10
+GP;mujer;16;urbano;GT3;juntos;2;3;services;services;course;mother;menos de 15min;2;0;no;no;no;no;yes;yes;yes;no;muy buena;medio;medio;1;1;mala;6;12;12;13
+GP;mujer;17;urbano;GT3;juntos;1;1;at_home;services;course;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;no;;medio;medio;1;1;regular;0;12;11;12
+GP;hombre;17;urbano;GT3;juntos;1;2;at_home;services;other;other;15 a 30 min;2;0;no;no;no;yes;no;yes;yes;no;muy buena;alto;alto;4;5;muy buena;16;10;11;12
+GP;hombre;16;rural;GT3;juntos;3;3;services;services;reputation;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;poco;3;4;muy buena;0;11;10;10
+GP;hombre;16;urbano;GT3;juntos;2;3;other;other;home;father;15 a 30 min;1;0;no;no;no;no;yes;yes;yes;no;excelente;medio;medio;1;1;regular;0;13;12;12
+GP;mujer;17;urbano;LE3;juntos;2;4;services;services;course;father;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;muy buena;medio;poco;1;1;muy buena;8;14;15;16
+GP;hombre;17;urbano;GT3;juntos;4;4;services;teacher;home;mother;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;excelente;poco;medio;1;2;muy buena;4;13;13;14
+GP;hombre;16;rural;LE3;juntos;3;3;teacher;other;home;father;30 min a 1 hora;1;0;no;yes;no;yes;yes;yes;yes;no;buena;medio;alto;3;5;regular;16;10;11;12
+GP;mujer;17;urbano;GT3;juntos;4;4;services;teacher;home;mother;15 a 30 min;1;1;no;yes;no;no;yes;yes;yes;no;muy buena;poco;alto;2;3;mala;30;14;15;16
+GP;mujer;16;urbano;LE3;juntos;4;4;teacher;teacher;reputation;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;muy alto;poco;1;2;regular;0;11;10;11
+GP;mujer;16;urbano;GT3;juntos;4;3;health;other;home;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;muy alto;1;5;mala;2;14;14;15
+GP;mujer;16;urbano;GT3;juntos;2;3;other;other;reputation;mother;menos de 15min;2;0;yes;yes;no;yes;yes;yes;no;no;muy buena;alto;medio;1;3;buena;4;11;12;12
+GP;mujer;17;urbano;GT3;juntos;1;1;other;other;course;mother;menos de 15min;2;0;no;yes;no;no;no;yes;no;no;muy buena;alto;alto;1;3;muy mala;0;14;15;15
+GP;mujer;17;rural;GT3;juntos;2;2;other;other;reputation;mother;menos de 15min;1;0;no;yes;no;no;yes;yes;yes;no;excelente;medio;poco;1;2;regular;21;13;13;13
+GP;mujer;16;rural;GT3;juntos;2;2;services;services;reputation;mother;15 a 30 min;4;0;no;yes;no;yes;no;yes;yes;no;excelente;medio;muy alto;1;1;muy buena;6;13;13;13
+GP;mujer;17;urbano;GT3;juntos;3;4;at_home;services;home;mother;menos de 15min;3;1;no;yes;yes;no;yes;yes;yes;yes;muy buena;alto;medio;3;4;muy buena;14;8;9;8
+GP;mujer;16;urbano;GT3;separados;3;1;services;other;course;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;mala;medio;medio;2;2;buena;2;11;11;12
+GP;mujer;16;urbano;GT3;juntos;4;3;teacher;other;other;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;muy mala;medio;poco;1;1;muy mala;4;14;15;15
+GP;mujer;16;urbano;GT3;juntos;1;1;at_home;other;home;mother;15 a 30 min;1;0;no;yes;no;no;yes;yes;no;no;muy buena;medio;poco;1;4;muy buena;2;12;13;13
+GP;mujer;17;rural;GT3;juntos;4;3;teacher;other;reputation;mother;15 a 30 min;3;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;alto;poco;1;1;buena;0;11;12;12
+GP;mujer;19;urbano;GT3;juntos;3;3;other;other;reputation;other;menos de 15min;4;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;medio;1;2;regular;4;12;12;12
+GP;hombre;17;urbano;LE3;juntos;4;4;services;other;home;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;yes;excelente;medio;muy alto;4;5;regular;15;13;12;12
+GP;mujer;16;urbano;GT3;separados;2;2;other;other;reputation;mother;menos de 15min;2;0;yes;yes;no;no;yes;yes;yes;no;buena;medio;alto;1;1;buena;0;13;13;13
+GP;hombre;18;urbano;GT3;juntos;2;2;services;other;home;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;;alto;alto;2;4;muy buena;10;12;11;11
+GP;mujer;17;rural;LE3;juntos;4;4;services;other;other;mother;menos de 15min;1;0;no;yes;no;no;yes;yes;no;no;excelente;poco;muy poco;1;2;regular;6;12;11;11
+GP;mujer;17;urbano;LE3;juntos;3;2;other;other;reputation;mother;15 a 30 min;2;0;no;no;no;no;yes;yes;yes;no;muy buena;alto;alto;1;3;muy mala;2;14;16;15
+GP;mujer;17;urbano;GT3;juntos;4;3;other;other;reputation;mother;menos de 15min;2;0;no;no;no;no;yes;yes;yes;yes;buena;alto;muy alto;2;4;muy mala;16;11;9;10
+GP;hombre;18;urbano;LE3;juntos;3;3;services;health;home;father;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;buena;poco;alto;2;4;buena;10;10;10;10
+GP;mujer;17;urbano;GT3;juntos;2;3;at_home;other;home;father;15 a 30 min;1;0;no;yes;no;no;yes;yes;no;no;buena;medio;medio;1;4;regular;4;12;13;13
+GP;mujer;17;urbano;GT3;juntos;2;2;at_home;at_home;course;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;no;muy buena;;medio;1;1;buena;0;12;12;13
+GP;mujer;17;rural;GT3;juntos;2;1;at_home;services;reputation;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;poco;muy alto;1;2;muy buena;0;11;10;11
+GP;mujer;17;urbano;GT3;juntos;1;1;at_home;other;reputation;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;no;yes;muy buena;medio;;1;1;muy buena;12;12;12;12
+GP;mujer;16;urbano;GT3;juntos;2;3;services;teacher;other;mother;menos de 15min;2;0;yes;no;no;no;yes;yes;yes;no;mala;medio;muy poco;1;1;regular;0;13;13;14
+GP;hombre;18;urbano;GT3;juntos;2;2;other;other;home;mother;15 a 30 min;2;3;no;yes;yes;no;yes;yes;yes;no;buena;medio;medio;5;5;buena;9;10;9;10
+GP;mujer;16;urbano;GT3;juntos;4;4;teacher;services;home;mother;menos de 15min;3;0;no;yes;no;yes;no;yes;yes;no;excelente;medio;poco;1;1;muy buena;4;15;16;16
+GP;mujer;18;rural;GT3;juntos;3;1;other;other;reputation;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;excelente;medio;medio;1;1;buena;4;8;8;8
+GP;mujer;17;urbano;GT3;juntos;3;2;other;other;course;mother;menos de 15min;2;0;no;no;no;yes;no;yes;yes;no;excelente;medio;alto;1;3;regular;2;17;18;17
+GP;hombre;17;urbano;LE3;juntos;2;3;services;services;reputation;father;menos de 15min;2;0;no;yes;no;no;no;yes;yes;no;excelente;medio;medio;1;3;;0;10;11;11
+GP;hombre;18;urbano;LE3;juntos;2;1;at_home;other;course;mother;mas de 1 hora;2;0;yes;yes;no;yes;yes;yes;yes;yes;muy buena;medio;poco;4;5;regular;2;9;10;11
+GP;mujer;17;urbano;GT3;separados;2;1;other;other;course;mother;15 a 30 min;3;0;no;no;no;yes;yes;yes;yes;yes;buena;poco;medio;1;2;regular;0;15;15;16
+GP;mujer;17;urbano;LE3;juntos;4;3;health;other;reputation;father;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;buena;poco;medio;1;2;regular;0;14;12;12
+GP;hombre;17;rural;GT3;juntos;2;2;other;other;course;father;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;muy alto;poco;1;1;muy mala;0;12;13;13
+GP;hombre;17;urbano;GT3;juntos;4;4;teacher;teacher;reputation;mother;menos de 15min;2;0;yes;yes;no;yes;yes;yes;yes;yes;muy buena;muy alto;muy alto;1;3;mala;0;13;13;13
+GP;hombre;16;urbano;GT3;juntos;4;4;health;other;reputation;father;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;poco;alto;2;4;muy mala;0;13;13;14
+GP;hombre;16;urbano;LE3;juntos;1;1;other;other;home;mother;15 a 30 min;2;0;no;yes;no;no;yes;yes;yes;no;buena;alto;poco;1;1;muy buena;2;9;9;9
+GP;hombre;16;urbano;GT3;juntos;3;2;at_home;other;reputation;mother;15 a 30 min;3;0;no;no;no;yes;yes;yes;yes;yes;excelente;medio;medio;1;3;mala;0;12;12;12
+GP;hombre;17;urbano;LE3;juntos;;2;other;other;home;father;menos de 15min;2;0;no;no;no;yes;no;yes;yes;yes;muy buena;alto;poco;5;5;buena;0;16;16;16
+GP;mujer;16;urbano;GT3;juntos;2;1;other;other;home;mother;menos de 15min;1;0;no;no;no;no;yes;yes;yes;yes;muy buena;muy alto;poco;1;1;muy buena;4;9;10;10
+GP;mujer;16;urbano;GT3;separados;4;1;other;other;home;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;excelente;medio;medio;1;2;muy buena;0;14;13;13
+GP;mujer;18;urbano;LE3;separados;2;4;services;other;course;mother;15 a 30 min;2;1;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;1;1;regular;18;10;10;10
+GP;mujer;18;urbano;LE3;juntos;2;2;at_home;services;course;mother;menos de 15min;2;1;no;yes;no;no;no;yes;yes;yes;excelente;medio;muy poco;1;1;muy buena;16;9;8;10
+GP;mujer;18;urbano;GT3;juntos;3;3;other;other;course;mother;15 a 30 min;1;1;no;no;no;no;yes;no;yes;no;muy buena;muy poco;muy poco;1;1;regular;14;8;7;7
+GP;hombre;18;urbano;GT3;juntos;2;2;other;at_home;course;other;menos de 15min;1;1;no;yes;no;yes;no;no;yes;yes;muy buena;alto;medio;2;2;muy mala;26;7;8;8
+GP;hombre;17;urbano;GT3;juntos;4;4;teacher;teacher;course;mother;menos de 15min;1;0;no;yes;no;yes;no;yes;yes;no;muy buena;poco;muy poco;1;2;muy buena;6;10;8;9
+GP;mujer;17;urbano;GT3;juntos;3;2;other;other;course;father;menos de 15min;2;0;no;no;no;yes;yes;yes;no;no;excelente;alto;poco;1;1;regular;4;14;14;15
+GP;mujer;17;urbano;LE3;juntos;1;1;at_home;at_home;course;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;medio;poco;1;2;buena;10;11;10;10
+GP;mujer;16;urbano;GT3;juntos;1;2;other;other;course;mother;menos de 15min;1;0;no;no;no;no;yes;no;yes;no;excelente;medio;muy alto;1;2;muy buena;4;12;11;11
+GP;mujer;17;rural;GT3;juntos;2;1;at_home;services;course;mother;30 min a 1 hora;2;0;no;no;no;yes;yes;yes;no;no;mala;muy poco;muy poco;1;1;regular;2;13;13;13
+GP;mujer;17;rural;LE3;separados;1;4;other;other;course;other;mas de 1 hora;1;1;no;yes;no;no;yes;yes;yes;no;excelente;muy alto;alto;1;1;muy buena;14;9;9;8
+GP;hombre;18;urbano;GT3;juntos;2;2;other;;reputation;father;menos de 15min;2;0;no;no;no;no;yes;no;yes;no;excelente;muy alto;alto;3;5;mala;16;8;7;8
+GP;mujer;17;urbano;LE3;separados;2;2;;other;home;mother;menos de 15min;1;1;no;yes;no;no;no;no;yes;no;buena;muy poco;poco;1;1;muy mala;8;11;9;10
+GP;mujer;17;rural;LE3;juntos;1;1;at_home;other;course;mother;15 a 30 min;3;0;no;no;no;yes;yes;yes;yes;no;muy buena;medio;medio;1;3;muy buena;4;15;14;15
+GP;mujer;17;urbano;LE3;separados;4;2;teacher;other;course;;;2;0;no;yes;no;yes;yes;yes;no;no;muy buena;medio;poco;1;1;buena;4;15;14;14
+GP;hombre;17;urbano;LE3;juntos;4;3;health;other;course;mother;15 a 30 min;2;0;no;no;no;yes;yes;yes;yes;yes;mala;muy alto;muy alto;1;4;muy buena;8;15;15;15
+GP;hombre;17;rural;LE3;separados;4;4;teacher;other;;mother;15 a 30 min;2;0;no;yes;no;no;yes;yes;yes;no;buena;medio;medio;2;3;buena;0;12;12;12
+GP;hombre;16;urbano;LE3;juntos;4;3;teacher;other;course;mother;menos de 15min;1;0;no;no;no;yes;no;yes;yes;no;excelente;alto;muy alto;1;1;;7;14;14;15
+GP;hombre;16;urbano;GT3;juntos;4;4;services;services;course;mother;menos de 15min;1;0;no;no;yes;yes;yes;yes;yes;no;excelente;medio;poco;1;2;muy buena;4;14;15;15
+GP;mujer;17;urbano;GT3;juntos;4;4;teacher;services;course;mother;menos de 15min;2;0;no;yes;yes;no;yes;yes;yes;yes;excelente;medio;muy poco;1;4;muy buena;2;11;11;12
+GP;hombre;17;rural;GT3;juntos;1;1;other;other;home;father;15 a 30 min;3;0;no;no;no;no;no;yes;yes;yes;muy buena;medio;medio;1;1;muy mala;2;13;14;15
+GP;mujer;17;urbano;GT3;juntos;3;3;services;other;home;mother;15 a 30 min;3;0;no;yes;no;no;yes;yes;yes;yes;muy buena;poco;poco;2;3;muy buena;10;11;11;11
+GP;mujer;17;urbano;GT3;juntos;1;1;at_home;other;course;mother;menos de 15min;2;0;yes;no;no;no;no;yes;no;yes;muy buena;medio;poco;1;1;buena;10;10;9;10
+GP;mujer;18;urbano;GT3;juntos;2;1;other;other;course;other;15 a 30 min;3;0;no;yes;no;no;no;yes;yes;yes;muy buena;alto;alto;1;1;regular;10;12;10;11
+GP;hombre;16;urbano;GT3;juntos;2;1;other;other;course;mother;30 min a 1 hora;1;0;no;no;no;no;yes;yes;yes;no;muy buena;medio;medio;1;1;buena;7;15;16;16
+GP;mujer;17;urbano;GT3;juntos;1;1;other;services;course;father;menos de 15min;2;0;no;yes;no;no;yes;yes;no;no;muy buena;medio;alto;1;2;muy buena;4;11;10;11
+GP;hombre;17;urbano;GT3;juntos;2;3;other;other;course;father;15 a 30 min;1;0;no;no;no;no;yes;yes;yes;no;excelente;poco;;1;1;mala;2;9;12;13
+GP;hombre;22;urbano;GT3;juntos;3;1;services;services;other;mother;menos de 15min;1;3;no;no;no;no;no;no;yes;yes;excelente;alto;muy alto;5;5;muy mala;12;7;8;5
+GP;hombre;18;rural;LE3;juntos;3;3;other;services;course;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;yes;muy buena;medio;medio;1;3;muy buena;8;10;9;10
+GP;hombre;16;urbano;GT3;juntos;0;2;other;other;other;mother;menos de 15min;1;0;no;no;no;no;no;yes;yes;no;muy buena;medio;poco;2;4;muy buena;0;11;12;11
+GP;hombre;18;urbano;GT3;juntos;3;2;services;other;course;mother;15 a 30 min;1;0;no;no;no;no;yes;no;yes;no;muy buena;;muy alto;2;4;muy buena;8;7;8;7
+GP;hombre;16;urbano;GT3;juntos;3;3;at_home;other;reputation;other;30 min a 1 hora;2;1;yes;yes;no;no;no;yes;yes;no;excelente;medio;medio;1;3;mala;4;9;11;10
+GP;hombre;18;urbano;GT3;juntos;2;1;services;services;other;mother;menos de 15min;1;2;no;no;no;no;no;no;yes;no;buena;poco;muy alto;2;5;muy buena;4;7;8;6
+GP;hombre;16;rural;GT3;juntos;2;1;other;other;course;mother;15 a 30 min;1;0;no;no;no;yes;no;yes;no;no;buena;medio;poco;1;3;regular;2;14;13;12
+GP;hombre;17;rural;GT3;juntos;2;1;other;other;course;mother;menos de 15min;1;0;no;no;no;no;no;yes;yes;no;;alto;poco;2;4;muy buena;0;12;12;13
+GP;hombre;17;urbano;LE3;juntos;1;1;health;other;course;mother;15 a 30 min;1;1;no;yes;no;yes;yes;yes;yes;no;muy buena;alto;alto;1;2;muy buena;0;9;10;10
+GP;mujer;18;urbano;LE3;separados;2;1;other;other;course;mother;menos de 15min;2;0;no;yes;no;no;no;yes;yes;yes;muy buena;medio;alto;1;3;muy buena;2;12;12;13
+GP;mujer;17;urbano;LE3;juntos;4;2;teacher;services;reputation;mother;menos de 15min;4;0;no;yes;no;yes;yes;yes;yes;no;muy buena;poco;medio;1;1;buena;2;14;15;17
+GP;mujer;19;urbano;GT3;juntos;2;2;services;services;home;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;1;1;muy buena;0;10;10;11
+GP;hombre;18;urbano;LE3;juntos;2;1;services;other;course;mother;30 min a 1 hora;2;1;no;no;no;yes;no;no;yes;no;muy buena;alto;muy alto;4;4;muy buena;4;11;10;11
+GP;mujer;17;rural;GT3;juntos;4;2;other;other;course;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;alto;1;3;muy buena;2;11;12;14
+GP;mujer;18;urbano;LE3;juntos;1;1;other;at_home;home;mother;menos de 15min;3;0;no;yes;no;no;no;yes;no;no;muy buena;alto;medio;2;3;regular;4;11;12;14
+GP;mujer;18;rural;GT3;juntos;2;2;other;other;home;mother;menos de 15min;2;0;yes;no;no;no;yes;yes;no;no;buena;poco;medio;1;1;muy buena;4;11;11;13
+GP;hombre;19;urbano;LE3;separados;4;3;services;at_home;reputation;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;muy poco;1;1;muy mala;4;11;13;14
+GP;hombre;18;urbano;GT3;juntos;2;1;other;other;home;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;no;excelente;poco;alto;1;2;buena;2;16;16;16
+GP;hombre;17;rural;GT3;juntos;2;2;other;services;other;mother;15 a 30 min;1;0;no;no;no;no;no;no;no;no;excelente;poco;poco;1;1;buena;0;9;10;10
+GP;mujer;17;urbano;LE3;juntos;2;2;services;services;course;father;menos de 15min;4;0;no;no;no;yes;yes;yes;yes;yes;buena;alto;muy poco;1;1;mala;2;10;11;12
+GP;mujer;20;rural;GT3;juntos;2;1;other;other;course;other;15 a 30 min;2;0;no;yes;yes;yes;yes;no;yes;yes;muy mala;poco;medio;1;2;mala;8;10;12;12
+GP;mujer;18;urbano;GT3;juntos;4;3;services;other;home;father;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;yes;buena;muy poco;poco;1;3;mala;2;15;15;15
+GP;hombre;18;urbano;GT3;juntos;4;3;teacher;other;course;mother;menos de 15min;2;0;no;yes;no;no;no;yes;yes;no;muy buena;medio;poco;1;1;regular;2;10;10;11
+GP;hombre;18;rural;GT3;juntos;3;2;other;other;course;mother;menos de 15min;3;0;no;no;no;yes;no;yes;no;no;excelente;medio;poco;1;1;regular;2;10;11;12
+GP;mujer;17;urbano;GT3;juntos;3;3;other;other;home;mother;menos de 15min;3;0;no;no;no;yes;no;yes;no;no;buena;poco;medio;1;1;buena;2;15;12;13
+GP;mujer;18;urbano;GT3;juntos;2;2;at_home;services;home;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;medio;medio;1;1;regular;0;11;12;13
+GP;hombre;17;urbano;GT3;juntos;2;2;other;other;home;father;15 a 30 min;1;0;no;no;no;no;yes;no;yes;no;muy buena;alto;alto;2;3;buena;8;8;8;9
+GP;hombre;18;rural;LE3;separados;3;4;other;other;reputation;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;poco;muy alto;3;4;muy mala;6;15;16;16
+GP;hombre;17;urbano;GT3;juntos;3;1;services;other;other;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;excelente;alto;alto;3;4;muy buena;0;11;11;14
+GP;mujer;18;rural;GT3;juntos;4;4;teacher;other;reputation;mother;15 a 30 min;2;0;no;no;no;yes;yes;yes;yes;no;muy buena;medio;alto;2;2;buena;8;10;11;12
+GP;hombre;18;urbano;GT3;juntos;4;2;health;other;reputation;father;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;yes;excelente;alto;muy alto;1;3;muy buena;4;10;12;14
+GP;mujer;18;rural;GT3;juntos;2;1;other;other;reputation;mother;15 a 30 min;2;0;no;yes;no;no;yes;no;yes;yes;muy buena;medio;muy alto;1;2;regular;12;8;9;10
+GP;mujer;19;urbano;GT3;juntos;3;3;other;services;home;other;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;muy alto;3;3;muy buena;16;11;12;12
+GP;mujer;18;urbano;GT3;juntos;2;3;other;services;reputation;father;menos de 15min;4;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;muy alto;muy alto;1;3;mala;10;16;16;16
+GP;mujer;18;urbano;LE3;juntos;1;1;other;other;home;mother;15 a 30 min;2;0;no;yes;no;no;no;yes;no;no;muy buena;alto;medio;1;1;regular;2;13;13;13
+GP;hombre;17;rural;GT3;juntos;1;2;at_home;at_home;home;mother;menos de 15min;2;0;no;yes;no;yes;no;yes;no;yes;buena;muy alto;poco;2;2;muy mala;2;16;17;18
+GP;mujer;18;urbano;GT3;juntos;2;1;other;other;home;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;yes;muy buena;poco;muy alto;1;2;muy mala;8;14;14;15
+GP;mujer;17;urbano;GT3;juntos;2;4;at_home;health;reputation;mother;15 a 30 min;2;0;no;yes;no;no;yes;yes;yes;yes;muy buena;medio;medio;1;1;muy mala;6;15;16;16
+GP;mujer;17;urbano;LE3;juntos;2;2;services;other;course;mother;15 a 30 min;2;0;yes;yes;no;no;yes;yes;yes;yes;muy buena;alto;alto;2;3;muy buena;6;12;12;12
+GP;mujer;18;rural;GT3;separados;3;2;other;services;home;mother;15 a 30 min;2;0;no;no;no;no;no;no;yes;yes;muy buena;muy poco;muy poco;1;1;muy buena;15;12;9;10
+GP;hombre;18;urbano;GT3;juntos;4;4;teacher;services;home;mother;15 a 30 min;1;0;no;no;no;yes;yes;yes;yes;no;buena;poco;alto;1;4;regular;6;11;12;12
+GP;mujer;18;urbano;GT3;juntos;4;4;health;health;reputation;father;menos de 15min;2;1;yes;yes;no;yes;yes;yes;yes;yes;mala;alto;alto;1;1;buena;2;14;12;13
+GP;mujer;17;urbano;GT3;juntos;2;2;other;services;reputation;father;30 min a 1 hora;3;0;no;yes;no;no;yes;yes;yes;yes;muy buena;poco;medio;1;1;muy mala;8;13;15;15
+GP;mujer;19;rural;GT3;juntos;3;2;services;services;reputation;father;menos de 15min;2;1;yes;yes;no;no;yes;no;yes;no;buena;medio;medio;4;3;regular;0;9;8;10
+GP;hombre;18;urbano;LE3;juntos;4;3;teacher;services;course;mother;15 a 30 min;1;0;no;no;no;yes;yes;yes;yes;no;muy buena;poco;medio;1;2;muy mala;0;10;10;10
+GP;hombre;18;urbano;GT3;juntos;1;2;at_home;other;home;other;15 a 30 min;1;0;no;no;no;no;no;no;yes;no;buena;alto;alto;2;4;buena;10;10;10;11
+GP;hombre;17;urbano;LE3;separados;4;1;services;other;home;mother;15 a 30 min;1;0;no;no;no;yes;yes;yes;yes;yes;muy buena;muy alto;alto;2;4;muy buena;22;11;11;10
+GP;hombre;17;urbano;LE3;separados;3;2;teacher;services;home;mother;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;muy buena;alto;alto;3;4;regular;18;13;13;13
+GP;mujer;18;rural;LE3;juntos;1;1;at_home;other;reputation;mother;15 a 30 min;4;0;no;yes;no;yes;yes;yes;no;no;excelente;poco;poco;1;1;regular;2;17;17;18
+GP;mujer;18;urbano;GT3;juntos;1;1;other;other;home;mother;15 a 30 min;2;0;yes;no;no;yes;yes;yes;yes;no;excelente;alto;alto;1;1;buena;0;12;13;13
+GP;mujer;17;urbano;GT3;juntos;2;2;other;other;course;mother;menos de 15min;2;0;no;yes;no;no;no;yes;yes;no;excelente;alto;muy alto;1;2;muy buena;12;12;12;14
+GP;mujer;18;urbano;GT3;juntos;2;1;other;other;reputation;mother;15 a 30 min;2;0;no;no;no;yes;yes;yes;yes;yes;muy buena;medio;muy poco;1;1;muy buena;10;12;13;14
+GP;hombre;17;urbano;GT3;juntos;1;1;other;other;reputation;father;menos de 15min;2;0;no;no;no;no;no;yes;yes;no;muy buena;medio;medio;1;2;buena;0;12;12;12
+GP;mujer;18;urbano;GT3;juntos;2;2;at_home;at_home;other;mother;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;1;2;mala;0;18;18;18
+GP;mujer;17;urbano;GT3;juntos;1;1;services;teacher;reputation;mother;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;1;1;regular;0;13;13;14
+GP;hombre;18;urbano;GT3;juntos;2;1;services;services;reputation;mother;menos de 15min;3;0;no;no;no;yes;yes;yes;yes;no;muy buena;poco;alto;1;3;mala;0;14;15;15
+GP;hombre;18;urbano;LE3;separados;4;4;teacher;teacher;reputation;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;alto;medio;1;1;mala;0;17;17;17
+GP;hombre;18;urbano;GT3;juntos;4;2;teacher;other;home;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;medio;poco;1;4;muy buena;2;15;16;16
+GP;mujer;17;urbano;GT3;juntos;4;3;health;services;reputation;mother;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;no;muy buena;poco;poco;1;2;regular;0;17;18;18
+GP;mujer;17;rural;LE3;juntos;3;1;services;other;reputation;mother;15 a 30 min;4;0;no;yes;no;no;yes;yes;no;no;buena;muy poco;poco;1;1;regular;0;18;19;19
+GP;hombre;18;rural;LE3;juntos;3;2;services;other;reputation;mother;15 a 30 min;3;0;no;yes;no;yes;yes;yes;yes;no;excelente;alto;poco;1;1;buena;0;14;15;15
+GP;hombre;17;urbano;GT3;juntos;3;3;health;other;home;mother;menos de 15min;1;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;medio;1;3;muy buena;0;14;15;15
+GP;mujer;19;urbano;GT3;juntos;4;4;health;other;reputation;other;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;mala;medio;alto;2;3;mala;2;14;13;13
+GP;mujer;18;urbano;LE3;juntos;4;3;other;other;home;other;15 a 30 min;2;0;no;yes;no;no;yes;yes;yes;yes;muy buena;alto;muy alto;1;2;mala;0;13;14;14
+GP;mujer;18;urbano;GT3;juntos;4;3;other;other;reputation;father;menos de 15min;4;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;1;1;regular;0;16;17;17
+GP;hombre;18;urbano;LE3;juntos;4;4;teacher;teacher;home;mother;menos de 15min;1;0;no;yes;no;no;yes;yes;yes;yes;muy mala;alto;poco;2;2;muy mala;0;18;18;17
+GP;mujer;18;urbano;LE3;separados;4;4;health;other;home;mother;menos de 15min;2;0;no;yes;yes;no;yes;yes;yes;yes;muy buena;poco;alto;1;1;buena;0;14;15;15
+GP;hombre;17;urbano;LE3;juntos;4;4;other;teacher;home;father;15 a 30 min;1;0;no;no;no;no;yes;yes;yes;no;muy buena;muy poco;muy poco;2;2;muy buena;0;12;13;13
+GP;mujer;17;rural;GT3;juntos;4;4;services;services;reputation;mother;15 a 30 min;3;0;no;yes;no;yes;yes;yes;yes;no;excelente;medio;alto;1;1;muy buena;0;7;7;8
+GP;mujer;17;urbano;GT3;juntos;4;2;other;other;reputation;mother;15 a 30 min;3;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;1;1;regular;0;16;16;16
+GP;mujer;17;urbano;GT3;juntos;3;2;health;health;reputation;father;menos de 15min;4;0;no;yes;no;yes;no;yes;yes;no;excelente;poco;poco;1;2;muy buena;0;18;18;18
+GP;hombre;19;rural;LE3;juntos;2;1;at_home;services;course;mother;15 a 30 min;3;1;no;no;no;yes;yes;yes;yes;yes;muy buena;medio;muy poco;1;1;muy buena;0;9;10;11
+GP;hombre;20;urbano;GT3;separados;3;2;services;other;course;other;menos de 15min;1;2;no;no;no;yes;yes;yes;no;no;excelente;muy alto;medio;1;1;muy buena;0;14;15;15
+GP;hombre;19;rural;GT3;juntos;3;3;other;services;reputation;father;menos de 15min;2;0;no;no;no;yes;yes;yes;no;yes;muy buena;muy alto;medio;1;2;muy buena;0;10;10;11
+GP;mujer;18;urbano;GT3;juntos;1;4;other;teacher;home;mother;menos de 15min;2;0;yes;yes;no;no;no;yes;no;yes;buena;alto;alto;1;2;muy buena;2;10;10;11
+GP;mujer;18;urbano;GT3;juntos;2;1;services;other;course;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;medio;medio;1;2;muy mala;2;12;12;15
+GP;mujer;17;urbano;GT3;juntos;2;3;other;other;course;father;15 a 30 min;2;0;no;no;no;yes;yes;yes;yes;yes;muy buena;poco;muy poco;1;1;regular;2;11;12;14
+GP;mujer;17;rural;GT3;juntos;4;4;teacher;teacher;course;mother;menos de 15min;1;0;no;no;no;yes;yes;yes;yes;no;muy buena;alto;alto;1;1;muy buena;2;15;16;17
+GP;mujer;18;urbano;GT3;juntos;4;3;other;other;course;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;medio;alto;1;1;muy buena;2;14;15;17
+GP;mujer;18;urbano;LE3;juntos;4;3;health;services;course;mother;15 a 30 min;1;0;no;yes;no;no;yes;yes;yes;no;buena;poco;alto;1;4;muy mala;8;12;12;15
+GP;mujer;17;rural;GT3;juntos;3;4;at_home;services;course;father;menos de 15min;3;0;no;yes;no;yes;no;yes;yes;no;muy buena;medio;alto;2;5;muy buena;2;15;15;17
+GP;mujer;18;urbano;GT3;juntos;3;3;at_home;other;course;father;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;muy poco;alto;1;1;regular;8;11;12;14
+GP;hombre;19;urbano;GT3;juntos;4;2;health;other;course;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;yes;excelente;alto;alto;1;1;muy mala;9;11;10;10
+GP;mujer;18;urbano;GT3;juntos;4;4;teacher;other;course;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;alto;3;3;muy buena;0;12;11;13
+GP;mujer;18;urbano;GT3;juntos;3;4;other;other;course;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;yes;excelente;alto;alto;1;1;muy mala;4;11;12;14
+GP;mujer;17;urbano;GT3;juntos;4;4;health;health;course;mother;menos de 15min;1;0;no;no;no;yes;yes;yes;yes;no;excelente;medio;alto;1;2;muy buena;2;14;15;17
+GP;mujer;17;urbano;GT3;separados;4;3;services;services;course;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;yes;excelente;poco;poco;1;2;muy buena;14;15;14;17
+GP;mujer;17;urbano;LE3;separados;3;3;services;other;home;mother;menos de 15min;2;0;yes;yes;no;no;yes;yes;yes;no;excelente;medio;medio;1;1;muy buena;0;12;12;13
+GP;mujer;17;urbano;LE3;juntos;2;1;other;other;home;father;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;no;muy buena;poco;medio;2;2;mala;2;11;12;14
+GP;hombre;18;urbano;LE3;juntos;4;4;other;other;reputation;father;menos de 15min;1;0;no;yes;no;no;yes;yes;yes;no;muy buena;poco;muy alto;3;4;muy buena;2;8;9;11
+GP;mujer;19;urbano;GT3;juntos;1;1;other;other;course;other;30 min a 1 hora;3;0;no;no;no;yes;yes;no;no;yes;muy mala;muy alto;muy alto;4;3;muy buena;12;10;10;11
+GP;mujer;19;urbano;LE3;separados;1;1;other;other;course;other;30 min a 1 hora;2;2;no;yes;no;no;no;yes;yes;yes;excelente;medio;alto;1;1;buena;2;8;8;9
+GP;mujer;18;urbano;GT3;juntos;2;2;other;other;course;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;medio;muy alto;2;4;muy buena;2;10;10;10
+GP;mujer;17;urbano;GT3;juntos;2;2;other;other;course;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;no;yes;muy buena;poco;poco;1;1;regular;4;14;13;13
+GP;mujer;17;rural;LE3;juntos;2;2;services;services;course;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;no;buena;medio;poco;2;2;regular;0;11;11;10
+GP;mujer;17;urbano;GT3;juntos;3;1;services;services;course;father;menos de 15min;3;0;no;yes;no;no;no;yes;yes;no;buena;alto;medio;2;3;muy buena;0;17;18;17
+GP;mujer;17;urbano;LE3;juntos;0;2;at_home;at_home;home;father;15 a 30 min;3;0;no;no;no;no;yes;yes;yes;no;buena;medio;medio;2;3;mala;0;14;14;15
+GP;mujer;18;urbano;GT3;juntos;1;1;other;other;home;mother;15 a 30 min;3;0;no;no;no;yes;yes;yes;yes;no;muy buena;muy alto;muy alto;1;2;mala;0;14;14;14
+GP;hombre;18;urbano;GT3;juntos;4;4;other;other;course;mother;menos de 15min;3;0;no;no;no;yes;yes;yes;yes;no;;medio;medio;2;2;regular;0;13;14;13
+GP;hombre;17;urbano;GT3;juntos;3;3;other;services;reputation;mother;menos de 15min;1;0;no;no;no;yes;no;yes;yes;no;muy buena;medio;muy alto;3;5;muy buena;0;17;18;17
+GP;hombre;17;rural;GT3;juntos;2;2;services;other;course;mother;mas de 1 hora;1;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;muy alto;5;5;buena;2;11;10;10
+GP;mujer;17;urbano;GT3;juntos;4;4;teacher;services;course;mother;menos de 15min;3;0;no;yes;no;yes;yes;yes;yes;no;excelente;;alto;1;3;buena;0;13;12;13
+GP;mujer;17;urbano;GT3;juntos;4;4;teacher;teacher;course;mother;15 a 30 min;3;0;no;yes;no;no;no;yes;yes;yes;muy buena;medio;medio;1;2;buena;4;15;14;15
+GP;mujer;17;urbano;GT3;juntos;3;3;at_home;other;course;mother;menos de 15min;1;0;no;yes;yes;yes;yes;yes;yes;no;muy buena;poco;muy alto;2;5;muy buena;2;11;12;11
+GP;hombre;18;urbano;LE3;juntos;2;2;other;other;course;mother;menos de 15min;4;0;no;yes;yes;yes;yes;yes;yes;no;muy buena;muy alto;;2;4;muy buena;0;11;11;12
+GP;hombre;19;rural;GT3;juntos;3;2;at_home;services;home;other;menos de 15min;1;0;no;yes;no;no;no;yes;no;yes;excelente;medio;alto;2;2;muy buena;0;11;10;10
+GP;mujer;18;urbano;GT3;juntos;2;2;at_home;other;course;mother;mas de 1 hora;2;0;no;no;no;yes;yes;yes;no;yes;muy buena;poco;muy alto;1;1;;2;10;9;10
+GP;mujer;17;rural;GT3;juntos;2;4;at_home;other;course;father;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;yes;muy buena;alto;medio;1;1;muy buena;0;15;15;15
+GP;hombre;18;urbano;GT3;juntos;2;2;other;other;reputation;mother;menos de 15min;1;0;no;no;no;no;no;yes;yes;no;excelente;alto;poco;1;2;muy buena;6;15;14;15
+GP;mujer;18;urbano;GT3;juntos;3;3;services;services;home;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;no;excelente;medio;alto;1;1;buena;8;10;11;12
+GP;mujer;18;urbano;LE3;juntos;2;2;other;other;home;other;menos de 15min;2;0;no;no;no;yes;no;yes;yes;yes;muy buena;medio;medio;1;1;mala;0;10;9;12
+GP;mujer;18;rural;GT3;juntos;2;2;at_home;other;course;mother;15 a 30 min;4;0;no;no;no;yes;yes;yes;no;no;muy buena;alto;alto;1;1;buena;6;14;13;14
+GP;mujer;17;urbano;GT3;juntos;3;4;services;other;course;mother;menos de 15min;3;0;no;no;no;no;yes;yes;yes;no;muy buena;alto;muy alto;1;3;muy buena;8;11;13;14
+GP;mujer;17;urbano;GT3;juntos;3;2;other;other;home;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;yes;muy buena;medio;poco;2;3;mala;0;12;13;15
+GP;mujer;18;urbano;LE3;juntos;3;3;services;services;home;mother;menos de 15min;4;0;no;yes;no;no;yes;yes;yes;no;excelente;medio;medio;1;1;muy mala;4;14;14;15
+GP;mujer;17;rural;GT3;separados;3;2;other;other;home;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;2;3;mala;0;14;14;16
+GP;hombre;18;urbano;GT3;juntos;4;4;teacher;services;home;father;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;medio;2;2;mala;0;12;12;13
+GP;hombre;18;urbano;LE3;juntos;3;4;services;other;home;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;muy buena;medio;medio;1;3;muy buena;6;16;16;17
+GP;mujer;17;urbano;GT3;separados;2;2;at_home;at_home;home;father;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;yes;buena;medio;muy poco;1;2;buena;18;10;12;14
+GP;mujer;18;urbano;GT3;juntos;2;3;at_home;other;course;mother;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;1;2;regular;0;11;12;14
+GP;mujer;18;urbano;GT3;juntos;3;2;other;services;other;mother;menos de 15min;3;0;no;no;no;no;yes;yes;yes;yes;excelente;alto;medio;2;3;muy mala;4;14;16;17
+GP;hombre;18;rural;GT3;juntos;4;3;teacher;services;course;mother;menos de 15min;3;0;no;no;no;no;yes;yes;yes;yes;excelente;medio;poco;1;2;buena;4;15;14;17
+GP;hombre;18;urbano;GT3;juntos;4;3;teacher;other;course;mother;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;yes;excelente;alto;muy alto;2;3;muy buena;0;14;13;14
+GP;mujer;17;urbano;GT3;juntos;4;3;health;other;reputation;mother;;3;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;alto;medio;1;3;buena;0;11;12;13
+GP;mujer;17;urbano;GT3;juntos;2;1;services;other;course;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;medio;alto;2;2;muy mala;10;12;15;15
+GP;mujer;17;urbano;GT3;juntos;2;1;services;other;reputation;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;muy alto;2;4;buena;4;12;16;16
+GP;mujer;19;urbano;LE3;separados;2;3;at_home;other;home;other;15 a 30 min;1;1;no;no;no;no;yes;no;yes;no;mala;poco;medio;3;4;muy buena;16;10;11;11
+GP;mujer;17;urbano;GT3;juntos;3;1;;at_home;home;;menos de 15min;1;1;no;yes;yes;no;yes;yes;yes;yes;muy buena;muy poco;poco;1;1;regular;6;10;13;13
+GP;mujer;21;urbano;LE3;juntos;4;4;other;other;reputation;other;menos de 15min;3;2;no;no;yes;yes;yes;yes;yes;no;buena;medio;poco;1;1;muy buena;0;9;12;12
+GP;hombre;18;urbano;LE3;juntos;2;2;services;;;mother;menos de 15min;2;0;no;yes;no;yes;no;no;yes;no;muy buena;alto;alto;1;3;regular;11;9;11;12
+GP;hombre;18;urbano;LE3;separados;3;4;other;other;reputation;other;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;muy buena;medio;muy alto;1;4;mala;9;13;14;15
+GP;mujer;17;urbano;GT3;juntos;2;2;services;services;reputation;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;alto;1;3;buena;0;13;17;17
+GP;hombre;17;urbano;LE3;separados;4;4;health;other;reputation;mother;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;poco;1;2;buena;2;12;15;15
+GP;mujer;18;urbano;LE3;juntos;4;2;teacher;other;course;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;poco;poco;1;1;regular;0;14;17;17
+GP;hombre;21;rural;LE3;juntos;1;1;at_home;other;course;other;15 a 30 min;2;2;no;yes;no;yes;yes;no;yes;yes;excelente;medio;medio;5;2;buena;21;9;10;10
+GP;mujer;20;rural;GT3;juntos;1;1;other;other;reputation;other;15 a 30 min;3;0;no;no;no;no;yes;yes;yes;yes;buena;poco;poco;1;3;regular;8;11;15;15
+GP;mujer;19;urbano;GT3;juntos;4;4;teacher;other;home;other;menos de 15min;1;1;no;yes;no;no;yes;yes;yes;yes;buena;poco;muy alto;4;4;muy buena;5;9;10;11
+GP;hombre;17;urbano;LE3;separados;3;2;other;other;reputation;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;alto;1;2;muy buena;10;16;18;18
+GP;mujer;18;urbano;GT3;juntos;3;2;at_home;other;reputation;father;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;yes;muy buena;medio;alto;1;2;mala;5;14;17;17
+GP;hombre;18;rural;GT3;juntos;2;3;other;services;reputation;father;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;buena;muy poco;medio;4;5;buena;13;13;14;14
+GP;hombre;19;urbano;GT3;juntos;2;1;other;other;reputation;mother;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;excelente;medio;alto;1;4;buena;10;7;11;11
+GP;mujer;18;urbano;LE3;separados;2;2;services;other;reputation;mother;15 a 30 min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;muy poco;alto;1;3;buena;10;14;17;17
+GP;mujer;20;urbano;GT3;juntos;1;0;other;other;reputation;mother;15 a 30 min;1;1;yes;no;no;no;yes;yes;yes;yes;excelente;medio;muy poco;1;1;muy buena;5;8;10;10
+GP;mujer;18;urbano;GT3;juntos;3;2;services;other;home;mother;menos de 15min;2;0;no;yes;no;yes;no;yes;yes;yes;buena;muy poco;poco;1;2;muy mala;4;10;13;13
+MS;mujer;16;urbano;GT3;juntos;1;3;at_home;other;other;father;15 a 30 min;1;0;no;yes;no;no;yes;no;yes;yes;muy buena;medio;medio;1;3;muy buena;11;10;11;11
+MS;mujer;16;rural;GT3;juntos;2;2;other;other;course;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;alto;alto;1;1;muy buena;0;12;12;12
+MS;mujer;15;rural;GT3;juntos;1;1;at_home;services;other;mother;menos de 15min;1;1;no;yes;no;no;yes;yes;no;yes;muy buena;muy poco;medio;1;1;mala;6;10;10;10
+MS;mujer;15;rural;GT3;juntos;3;3;at_home;other;course;mother;15 a 30 min;1;0;no;yes;no;no;yes;yes;yes;no;excelente;alto;alto;2;3;muy buena;4;10;10;11
+MS;mujer;16;rural;GT3;juntos;2;3;at_home;services;course;mother;15 a 30 min;2;0;no;no;no;no;yes;yes;no;no;muy buena;muy alto;poco;1;2;muy buena;0;16;17;17
+MS;mujer;15;rural;LE3;juntos;2;1;at_home;other;home;mother;15 a 30 min;1;0;no;no;no;no;yes;no;no;no;muy mala;medio;alto;1;1;muy mala;0;6;8;9
+MS;hombre;16;rural;LE3;separados;4;4;at_home;other;home;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;no;no;excelente;medio;poco;1;3;mala;5;10;11;11
+MS;hombre;16;urbano;GT3;separados;1;2;other;other;other;mother;menos de 15min;3;0;yes;no;no;no;yes;yes;yes;no;muy buena;alto;medio;1;1;muy buena;0;10;11;11
+MS;mujer;17;rural;GT3;juntos;3;2;at_home;other;course;father;menos de 15min;2;1;no;no;no;no;yes;yes;no;yes;muy buena;muy alto;alto;1;2;muy buena;0;10;10;10
+MS;mujer;17;rural;GT3;juntos;1;1;other;other;other;father;menos de 15min;1;1;no;yes;no;no;no;no;yes;no;excelente;alto;alto;2;2;muy buena;0;6;6;7
+MS;mujer;15;rural;GT3;juntos;4;4;teacher;other;course;mother;15 a 30 min;1;0;no;no;no;no;yes;yes;yes;yes;muy mala;muy alto;muy poco;3;5;muy buena;0;13;14;14
+MS;mujer;16;urbano;LE3;separados;2;2;at_home;other;reputation;mother;15 a 30 min;4;0;no;no;no;yes;no;no;no;yes;muy mala;poco;muy poco;1;1;muy mala;4;10;9;11
+MS;mujer;15;rural;LE3;juntos;1;1;at_home;services;reputation;father;15 a 30 min;2;0;no;yes;no;no;yes;yes;yes;no;excelente;alto;medio;1;2;buena;0;10;10;10
+MS;mujer;15;rural;LE3;juntos;1;1;other;services;course;mother;15 a 30 min;1;1;no;yes;no;no;yes;yes;yes;yes;muy buena;alto;medio;1;2;mala;4;6;7;8
+MS;mujer;16;rural;GT3;juntos;0;2;other;other;other;mother;15 a 30 min;1;0;no;yes;no;yes;yes;yes;no;no;buena;poco;medio;1;2;mala;0;12;11;12
+MS;mujer;17;rural;GT3;juntos;2;3;other;other;course;mother;15 a 30 min;1;0;no;yes;no;no;yes;yes;yes;no;excelente;muy alto;muy alto;1;3;regular;2;10;11;12
+MS;mujer;15;rural;GT3;juntos;3;3;other;services;course;father;15 a 30 min;1;0;no;no;no;no;no;yes;yes;no;muy buena;muy poco;medio;1;1;buena;0;14;16;16
+MS;hombre;16;urbano;GT3;juntos;1;1;at_home;services;home;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;no;yes;excelente;alto;muy alto;4;5;regular;0;7;0;0
+MS;hombre;17;urbano;GT3;juntos;1;1;other;other;home;mother;menos de 15min;2;0;no;no;yes;no;no;yes;yes;no;muy buena;alto;medio;2;4;muy buena;4;8;9;9
+MS;hombre;15;rural;LE3;juntos;4;1;health;services;reputation;father;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;medio;alto;1;2;mala;0;12;13;14
+MS;hombre;15;rural;LE3;juntos;4;1;health;services;reputation;father;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;medio;alto;1;2;mala;7;7;9;8
+MS;hombre;16;rural;GT3;juntos;3;4;other;health;other;mother;30 min a 1 hora;2;0;no;no;no;no;no;yes;no;no;buena;alto;muy alto;1;2;muy buena;4;9;10;11
+MS;hombre;15;rural;GT3;juntos;1;1;other;other;course;mother;mas de 1 hora;2;0;no;yes;no;yes;yes;yes;no;yes;excelente;alto;muy alto;2;4;buena;8;7;9;9
+MS;hombre;15;urbano;LE3;juntos;3;3;at_home;at_home;reputation;father;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;medio;medio;1;1;muy buena;0;11;11;11
+MS;hombre;17;rural;GT3;juntos;2;1;other;other;other;mother;30 min a 1 hora;1;0;no;no;no;yes;yes;no;no;yes;excelente;muy alto;muy alto;5;5;regular;8;8;10;9
+MS;mujer;16;rural;GT3;juntos;4;4;teacher;teacher;course;mother;15 a 30 min;3;0;no;no;no;yes;yes;yes;yes;yes;muy buena;poco;poco;1;1;buena;6;16;16;17
+MS;mujer;15;rural;GT3;juntos;1;2;other;services;course;mother;15 a 30 min;1;0;no;no;no;no;yes;yes;no;no;excelente;muy poco;poco;1;1;muy mala;3;11;13;13
+MS;mujer;16;rural;GT3;juntos;2;3;other;services;course;mother;30 min a 1 hora;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;muy alto;alto;1;2;muy mala;2;15;15;15
+MS;hombre;16;rural;GT3;juntos;1;2;other;other;course;father;15 a 30 min;2;0;no;no;no;no;yes;yes;no;no;muy buena;medio;medio;1;1;muy buena;0;10;11;11
+MS;mujer;16;rural;GT3;juntos;2;2;other;other;course;mother;30 min a 1 hora;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;muy alto;1;1;buena;4;9;10;11
+MS;mujer;16;urbano;GT3;juntos;1;2;other;services;course;mother;menos de 15min;3;1;no;yes;no;no;yes;yes;no;no;muy mala;medio;poco;1;2;buena;0;10;8;8
+MS;mujer;16;urbano;GT3;juntos;1;2;other;services;course;mother;menos de 15min;3;1;no;yes;no;no;yes;yes;no;no;muy mala;medio;poco;1;2;buena;3;9;8;8
+MS;mujer;15;urbano;GT3;juntos;2;1;at_home;other;home;mother;menos de 15min;2;0;yes;yes;no;no;no;yes;yes;no;muy buena;alto;poco;3;3;mala;0;9;10;9
+MS;mujer;16;urbano;GT3;juntos;1;1;at_home;other;course;father;menos de 15min;2;0;no;yes;no;no;no;yes;no;yes;excelente;alto;medio;2;1;mala;0;13;14;15
+MS;hombre;17;rural;LE3;juntos;1;2;at_home;services;reputation;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;no;excelente;muy alto;muy alto;5;5;regular;4;10;11;11
+MS;mujer;16;rural;GT3;juntos;1;1;other;other;home;father;mas de 1 hora;4;0;no;yes;no;no;no;yes;yes;no;muy buena;medio;poco;1;1;muy mala;0;13;10;13
+MS;mujer;16;rural;GT3;juntos;1;1;at_home;other;other;father;mas de 1 hora;3;0;yes;yes;no;no;yes;yes;no;no;muy buena;alto;medio;1;1;muy buena;2;10;9;10
+MS;mujer;15;rural;GT3;juntos;1;1;at_home;other;home;father;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;muy buena;medio;medio;1;1;mala;1;11;10;11
+MS;mujer;16;rural;GT3;juntos;1;1;at_home;other;other;mother;15 a 30 min;1;0;no;no;no;yes;yes;yes;yes;yes;muy buena;poco;poco;4;3;mala;0;13;12;14
+MS;mujer;15;rural;GT3;juntos;1;1;at_home;at_home;course;father;30 min a 1 hora;2;0;no;yes;no;no;yes;yes;no;no;muy buena;poco;muy poco;1;2;mala;0;13;14;14
+MS;mujer;15;rural;LE3;juntos;2;2;other;other;other;father;menos de 15min;3;0;yes;yes;no;no;yes;yes;no;no;muy buena;alto;medio;2;2;muy buena;2;14;11;12
+MS;hombre;16;rural;GT3;juntos;1;1;at_home;other;other;father;15 a 30 min;1;0;no;no;no;yes;yes;yes;no;no;buena;alto;alto;3;4;muy buena;6;11;11;11
+MS;mujer;18;urbano;GT3;juntos;1;2;;other;course;father;menos de 15min;2;1;no;yes;no;yes;yes;yes;yes;yes;buena;alto;alto;2;3;muy buena;9;9;8;8
+MS;hombre;15;urbano;GT3;juntos;3;1;other;services;home;mother;15 a 30 min;1;0;no;yes;no;no;yes;yes;no;no;buena;poco;medio;1;3;buena;0;10;9;11
+MS;mujer;16;rural;GT3;juntos;2;2;other;services;;father;30 min a 1 hora;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;medio;alto;1;1;mala;1;14;13;14
+MS;hombre;15;urbano;GT3;juntos;2;2;health;other;reputation;mother;30 min a 1 hora;1;0;no;no;no;no;yes;yes;no;no;muy buena;medio;medio;1;2;buena;1;13;12;13
+MS;hombre;16;urbano;GT3;juntos;4;4;other;teacher;course;father;menos de 15min;2;0;no;yes;no;yes;yes;yes;no;yes;muy buena;medio;muy poco;1;1;regular;0;13;12;13
+MS;mujer;15;rural;GT3;juntos;3;3;services;other;reputation;;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;yes;muy buena;muy alto;alto;1;1;muy mala;4;13;12;12
+MS;mujer;16;rural;GT3;juntos;2;2;at_home;;course;mother;15 a 30 min;2;1;no;yes;no;yes;no;yes;no;no;muy buena;alto;alto;2;3;muy buena;2;12;11;12
+MS;mujer;16;rural;LE3;juntos;2;2;other;other;home;father;30 min a 1 hora;1;0;no;yes;no;yes;yes;yes;no;yes;muy buena;medio;poco;1;1;buena;0;14;14;16
+MS;hombre;16;urbano;LE3;juntos;2;1;at_home;services;course;mother;15 a 30 min;1;0;no;yes;no;yes;yes;yes;yes;no;mala;alto;medio;2;3;buena;4;10;8;10
+MS;hombre;15;rural;LE3;juntos;1;3;at_home;other;reputation;father;30 min a 1 hora;1;0;no;yes;no;yes;yes;yes;yes;no;muy buena;poco;alto;3;5;regular;2;10;11;11
+MS;mujer;15;urbano;GT3;juntos;2;2;other;services;course;mother;15 a 30 min;3;0;no;yes;no;yes;yes;yes;no;no;excelente;medio;poco;1;1;buena;0;12;13;14
+MS;mujer;16;rural;LE3;juntos;2;1;other;other;home;mother;;1;0;no;yes;no;no;yes;yes;yes;yes;excelente;alto;medio;1;1;muy buena;2;10;8;8
+MS;hombre;15;urbano;GT3;juntos;3;3;services;services;course;father;15 a 30 min;1;0;no;yes;no;yes;no;yes;yes;no;muy buena;medio;medio;2;4;regular;11;12;10;11
+MS;mujer;16;rural;GT3;juntos;1;1;at_home;other;course;father;15 a 30 min;2;3;yes;yes;no;no;yes;yes;no;no;buena;alto;medio;1;1;muy mala;0;7;7;8
+MS;mujer;17;urbano;GT3;juntos;2;2;other;at_home;course;mother;menos de 15min;1;0;no;yes;no;yes;yes;no;no;no;muy buena;muy alto;medio;1;1;muy buena;4;9;9;10
+MS;mujer;19;urbano;GT3;juntos;2;3;at_home;services;course;other;menos de 15min;1;1;no;no;no;no;yes;no;yes;yes;muy buena;alto;alto;1;1;mala;0;9;9;10
+MS;mujer;17;rural;GT3;juntos;2;1;at_home;other;course;mother;30 min a 1 hora;1;0;no;yes;no;yes;yes;no;no;yes;excelente;muy alto;medio;1;1;regular;2;9;10;11
+MS;mujer;15;rural;LE3;juntos;1;1;at_home;other;course;mother;15 a 30 min;1;0;no;yes;no;no;yes;no;no;yes;excelente;poco;muy poco;1;3;buena;0;9;10;9
+MS;mujer;16;rural;GT3;juntos;2;2;other;other;course;father;30 min a 1 hora;2;0;no;yes;no;no;yes;no;yes;no;buena;alto;muy alto;1;2;muy mala;1;9;10;11
+MS;mujer;16;urbano;LE3;separados;2;2;other;other;home;mother;menos de 15min;1;0;no;yes;no;no;yes;no;no;no;muy buena;medio;alto;1;2;muy mala;6;7;7;8
+MS;mujer;17;rural;GT3;juntos;2;2;at_home;other;course;mother;15 a 30 min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;muy alto;1;2;buena;0;11;10;11
+MS;mujer;16;urbano;GT3;juntos;2;2;other;services;course;father;menos de 15min;1;1;no;yes;yes;yes;no;yes;yes;no;muy buena;alto;medio;1;4;regular;1;9;10;10
+MS;mujer;18;rural;LE3;separados;3;2;other;other;course;other;15 a 30 min;3;2;no;yes;no;no;no;no;no;yes;buena;medio;poco;1;1;mala;6;7;9;10
+MS;mujer;19;urbano;GT3;juntos;1;1;at_home;services;course;mother;menos de 15min;3;1;no;no;no;yes;yes;no;no;yes;excelente;medio;muy poco;1;1;regular;6;7;9;9
+MS;hombre;18;rural;GT3;juntos;1;1;other;other;home;mother;15 a 30 min;1;1;no;no;no;yes;yes;no;yes;no;muy buena;alto;medio;3;4;buena;0;8;9;10
+MS;mujer;18;rural;GT3;juntos;1;1;at_home;at_home;course;mother;15 a 30 min;1;1;no;no;no;no;no;no;yes;yes;buena;poco;medio;1;1;mala;4;9;11;10
+MS;mujer;19;urbano;GT3;juntos;1;1;other;other;course;other;15 a 30 min;2;1;no;yes;no;no;yes;yes;yes;yes;muy mala;muy poco;alto;4;1;;12;7;8;9
+MS;mujer;16;rural;GT3;separados;2;2;health;other;course;mother;menos de 15min;2;0;no;no;no;no;no;yes;no;yes;buena;medio;poco;1;1;regular;2;8;10;10
+MS;mujer;17;urbano;GT3;juntos;0;1;other;at_home;course;father;15 a 30 min;1;0;no;no;no;yes;no;yes;no;no;mala;alto;alto;3;5;muy buena;5;9;9;10
+MS;mujer;16;rural;LE3;juntos;1;2;at_home;other;course;mother;menos de 15min;2;0;no;no;no;yes;yes;no;yes;no;muy buena;alto;muy alto;1;3;regular;0;8;9;9
+MS;mujer;16;urbano;GT3;juntos;3;3;other;other;reputation;mother;menos de 15min;1;0;no;no;no;yes;yes;no;yes;yes;muy buena;muy alto;;1;1;buena;0;14;13;13
+MS;mujer;16;rural;LE3;juntos;1;1;services;services;home;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;alto;alto;2;2;buena;2;14;14;14
+MS;hombre;17;urbano;GT3;juntos;3;3;services;at_home;course;mother;15 a 30 min;4;1;no;yes;yes;yes;yes;yes;no;no;excelente;alto;muy alto;3;4;muy buena;0;10;11;10
+MS;mujer;16;urbano;GT3;juntos;2;1;other;services;course;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;no;excelente;;medio;1;1;muy mala;0;14;13;14
+MS;mujer;16;urbano;GT3;juntos;2;2;services;other;course;mother;menos de 15min;1;0;no;yes;yes;yes;yes;yes;no;yes;;poco;muy alto;1;2;muy buena;0;17;16;16
+MS;hombre;17;urbano;GT3;juntos;1;2;other;other;course;father;menos de 15min;1;1;no;yes;no;yes;yes;no;yes;yes;excelente;medio;muy alto;5;5;muy mala;12;6;7;7
+MS;hombre;16;urbano;LE3;juntos;4;3;other;other;course;father;menos de 15min;1;0;no;no;no;yes;yes;yes;yes;no;muy buena;poco;muy alto;1;5;muy buena;8;14;12;13
+MS;hombre;17;rural;LE3;juntos;2;2;services;services;other;mother;30 min a 1 hora;4;1;no;yes;no;no;yes;yes;no;no;muy mala;medio;muy alto;3;5;regular;2;10;8;9
+MS;mujer;16;urbano;GT3;juntos;1;1;other;other;course;other;menos de 15min;4;0;yes;yes;no;yes;yes;yes;yes;no;mala;poco;muy poco;1;1;muy buena;0;14;14;14
+MS;mujer;19;urbano;LE3;juntos;2;2;other;other;home;mother;menos de 15min;3;0;no;no;no;no;yes;yes;yes;yes;excelente;alto;muy alto;1;1;muy mala;0;12;13;13
+MS;mujer;17;rural;GT3;juntos;1;1;at_home;other;reputation;mother;15 a 30 min;1;0;no;yes;no;yes;no;yes;yes;yes;muy buena;alto;muy alto;1;2;muy buena;0;11;11;11
+MS;mujer;20;urbano;GT3;juntos;3;3;at_home;services;other;mother;15 a 30 min;2;1;no;no;no;yes;yes;yes;yes;yes;buena;medio;alto;2;4;regular;8;11;9;10
+MS;mujer;17;urbano;LE3;juntos;1;1;other;services;course;father;menos de 15min;3;0;no;yes;no;no;yes;yes;no;yes;muy buena;medio;medio;1;1;regular;0;11;11;10
+MS;hombre;17;rural;GT3;juntos;2;2;other;other;course;mother;30 min a 1 hora;1;1;no;yes;no;no;no;yes;yes;no;muy buena;alto;muy alto;1;2;muy buena;0;10;9;9
+MS;mujer;16;rural;LE3;juntos;1;1;at_home;other;course;father;30 min a 1 hora;2;0;no;yes;no;no;yes;yes;no;no;excelente;medio;poco;1;1;muy mala;0;16;17;18
+MS;mujer;17;rural;GT3;juntos;2;2;other;other;reputation;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;no;no;excelente;medio;poco;1;1;muy mala;0;15;17;17
+MS;mujer;17;urbano;GT3;separados;1;0;other;other;other;mother;15 a 30 min;2;0;no;no;no;no;yes;yes;yes;yes;muy buena;alto;muy alto;1;1;buena;1;11;9;10
+MS;mujer;18;rural;GT3;juntos;1;1;at_home;other;other;mother;menos de 15min;2;1;no;yes;no;no;yes;yes;yes;yes;muy buena;medio;poco;1;1;muy buena;9;7;7;7
+MS;mujer;16;urbano;GT3;juntos;3;1;other;other;course;mother;menos de 15min;1;0;no;no;no;yes;yes;yes;yes;no;buena;muy poco;medio;1;3;muy mala;0;8;6;8
+MS;mujer;16;urbano;GT3;juntos;3;2;services;at_home;course;mother;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;buena;muy poco;medio;1;4;regular;2;7;6;7
+MS;mujer;18;urbano;LE3;juntos;1;1;other;at_home;reputation;mother;15 a 30 min;2;0;yes;no;no;no;yes;yes;no;no;mala;medio;muy alto;1;4;regular;8;9;8;10
+MS;mujer;16;rural;GT3;juntos;4;4;health;teacher;reputation;father;menos de 15min;2;0;no;no;no;yes;no;yes;yes;yes;muy buena;medio;medio;2;3;mala;0;14;16;16
+MS;mujer;16;rural;LE3;juntos;1;2;other;other;reputation;mother;15 a 30 min;1;0;no;no;no;yes;yes;yes;yes;no;excelente;alto;muy alto;1;4;mala;0;14;14;15
+MS;mujer;18;urbano;GT3;separados;2;4;other;services;reputation;father;menos de 15min;2;1;no;yes;no;no;yes;yes;yes;no;mala;medio;poco;1;3;muy mala;8;8;5;8
+MS;hombre;16;rural;GT3;juntos;2;1;other;services;reputation;mother;15 a 30 min;2;0;no;no;no;yes;yes;yes;yes;no;excelente;poco;muy poco;1;1;mala;0;8;7;0
+MS;mujer;16;urbano;LE3;juntos;1;1;at_home;other;other;mother;30 min a 1 hora;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;poco;1;3;muy buena;6;6;8;8
+MS;mujer;16;rural;GT3;juntos;2;3;at_home;services;other;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;buena;medio;medio;1;1;mala;0;8;10;10
+MS;mujer;16;urbano;GT3;juntos;4;4;health;health;course;mother;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;yes;muy buena;medio;alto;1;2;regular;4;8;8;8
+MS;hombre;18;urbano;LE3;juntos;4;4;at_home;health;home;mother;menos de 15min;4;0;no;yes;no;yes;yes;no;yes;yes;excelente;muy alto;muy alto;5;5;muy buena;2;5;6;6
+MS;mujer;16;rural;LE3;juntos;3;4;at_home;other;other;mother;30 min a 1 hora;2;0;no;yes;no;no;no;yes;no;no;muy buena;poco;muy poco;1;1;mala;2;7;9;8
+MS;hombre;17;urbano;LE3;juntos;4;4;other;services;home;mother;menos de 15min;3;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;medio;1;2;muy buena;0;15;14;16
+MS;mujer;17;rural;GT3;juntos;4;1;other;other;other;mother;menos de 15min;1;0;no;no;no;no;yes;yes;yes;yes;muy buena;poco;medio;1;2;muy buena;1;13;14;14
+MS;hombre;16;urbano;LE3;juntos;2;2;services;services;other;mother;mas de 1 hora;3;0;no;no;no;no;yes;yes;no;no;excelente;muy poco;medio;2;2;regular;0;10;9;10
+MS;mujer;17;rural;GT3;juntos;2;2;at_home;other;other;mother;menos de 15min;1;0;no;yes;yes;no;yes;yes;yes;no;excelente;muy poco;medio;1;2;muy buena;5;9;9;9
+MS;mujer;16;urbano;LE3;juntos;4;4;services;services;other;father;15 a 30 min;1;0;no;yes;no;no;yes;yes;no;no;excelente;muy poco;medio;1;2;muy buena;1;11;11;11
+MS;hombre;17;urbano;GT3;juntos;3;3;services;services;home;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;no;muy buena;muy poco;alto;5;5;regular;8;7;10;9
+MS;hombre;17;urbano;GT3;juntos;1;1;at_home;services;other;mother;30 min a 1 hora;2;0;no;no;no;no;yes;yes;yes;yes;excelente;muy poco;medio;3;3;muy mala;0;10;10;10
+MS;hombre;16;urbano;GT3;juntos;2;1;health;services;other;mother;15 a 30 min;2;0;no;no;no;no;no;yes;yes;yes;muy buena;poco;poco;1;4;muy buena;2;9;7;8
+MS;mujer;16;urbano;LE3;juntos;2;1;other;services;other;mother;menos de 15min;2;0;no;no;no;no;yes;yes;yes;yes;buena;poco;poco;1;1;regular;0;14;15;16
+MS;hombre;16;urbano;LE3;juntos;4;4;teacher;health;other;father;menos de 15min;1;0;no;yes;no;no;yes;yes;yes;no;muy buena;muy poco;poco;2;5;muy buena;0;11;12;12
+MS;hombre;15;rural;GT3;juntos;1;2;other;services;course;mother;30 min a 1 hora;2;0;no;yes;no;yes;yes;yes;no;no;excelente;muy alto;muy alto;1;3;muy buena;11;9;11;10
+MS;hombre;15;urbano;LE3;separados;2;2;other;other;reputation;mother;30 min a 1 hora;4;0;no;yes;no;yes;yes;yes;no;no;excelente;alto;muy alto;2;3;muy buena;8;13;14;14
+MS;hombre;15;urbano;LE3;separados;2;1;services;services;course;mother;menos de 15min;1;0;no;no;no;yes;yes;yes;yes;no;muy buena;medio;medio;1;2;muy buena;11;12;13;12
+MS;mujer;16;rural;LE3;juntos;2;2;other;other;course;mother;menos de 15min;3;0;no;yes;no;no;no;yes;no;yes;muy buena;medio;medio;2;2;muy buena;2;11;11;11
+MS;mujer;16;urbano;LE3;juntos;4;1;other;other;home;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;yes;no;muy mala;poco;alto;2;2;muy mala;8;9;10;10
+MS;mujer;17;urbano;GT3;juntos;3;2;at_home;other;home;mother;15 a 30 min;1;0;no;no;no;no;yes;yes;no;yes;muy buena;medio;medio;2;2;muy mala;5;9;11;11
+MS;mujer;17;rural;GT3;juntos;2;2;other;other;other;mother;15 a 30 min;2;0;yes;no;yes;no;yes;yes;no;no;excelente;muy poco;medio;1;1;muy buena;0;11;9;11
+MS;mujer;16;urbano;GT3;juntos;4;4;teacher;services;course;mother;15 a 30 min;3;0;no;yes;no;no;yes;yes;yes;yes;excelente;medio;muy alto;1;4;muy buena;1;10;11;12
+MS;hombre;17;rural;GT3;juntos;4;4;health;other;course;father;30 min a 1 hora;1;3;no;no;no;yes;yes;yes;yes;yes;buena;medio;medio;1;3;muy buena;2;9;9;8
+MS;hombre;17;rural;LE3;juntos;1;3;other;other;course;father;15 a 30 min;1;0;no;no;no;yes;yes;yes;no;yes;excelente;muy poco;poco;3;3;muy buena;2;12;11;12
+MS;hombre;17;urbano;GT3;juntos;3;4;services;other;other;mother;menos de 15min;2;1;no;yes;no;yes;no;yes;yes;yes;excelente;alto;alto;3;4;muy buena;8;8;9;8
+MS;mujer;17;urbano;GT3;juntos;4;4;health;health;course;father;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;excelente;poco;muy alto;1;1;muy buena;0;13;15;16
+MS;hombre;16;rural;LE3;juntos;4;1;other;at_home;other;father;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;muy buena;muy poco;poco;2;1;mala;0;10;11;11
+MS;mujer;17;urbano;GT3;separados;1;1;at_home;at_home;other;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;muy buena;muy alto;muy alto;1;2;regular;2;11;10;11
+MS;mujer;17;rural;GT3;juntos;4;2;other;other;course;mother;15 a 30 min;2;0;yes;yes;no;no;no;yes;yes;no;muy buena;medio;medio;2;3;muy buena;0;17;18;18
+MS;hombre;16;urbano;LE3;separados;2;2;other;services;course;father;15 a 30 min;2;0;no;yes;no;no;no;yes;yes;yes;muy buena;muy poco;poco;2;2;muy buena;0;12;13;13
+MS;hombre;17;urbano;GT3;juntos;3;2;other;other;other;father;;2;0;no;yes;yes;no;yes;yes;yes;no;muy buena;muy poco;poco;2;2;muy mala;0;13;14;13
+MS;hombre;19;urbano;GT3;juntos;1;1;other;other;other;mother;menos de 15min;2;2;no;yes;no;yes;yes;no;yes;no;muy buena;alto;medio;3;4;buena;2;9;9;10
+MS;hombre;17;urbano;LE3;separados;1;0;other;other;home;mother;menos de 15min;1;0;no;no;no;no;yes;yes;no;yes;muy buena;muy poco;poco;1;1;muy buena;4;11;11;12
+MS;mujer;17;rural;GT3;juntos;1;1;at_home;at_home;;father;15 a 30 min;1;0;no;yes;no;yes;yes;no;yes;yes;buena;muy alto;muy alto;2;2;buena;3;10;11;10
+MS;mujer;16;rural;GT3;juntos;1;2;other;other;home;father;menos de 15min;3;0;yes;yes;no;no;no;yes;yes;yes;muy buena;medio;alto;1;1;regular;5;13;14;13
+MS;hombre;16;rural;LE3;juntos;1;2;other;at_home;course;mother;menos de 15min;1;0;no;no;no;no;yes;yes;no;no;muy buena;alto;alto;2;4;muy buena;4;9;10;11
+MS;mujer;17;rural;GT3;juntos;3;1;;other;course;mother;15 a 30 min;2;3;no;yes;no;yes;no;yes;yes;yes;excelente;alto;alto;1;1;muy buena;2;7;9;10
+MS;hombre;17;rural;GT3;juntos;2;2;other;other;course;mother;15 a 30 min;1;0;no;no;no;yes;yes;no;no;yes;excelente;muy alto;muy alto;3;5;muy buena;0;8;13;10
+MS;hombre;18;rural;GT3;juntos;1;0;at_home;at_home;course;other;30 min a 1 hora;1;1;yes;yes;no;no;yes;yes;no;no;muy buena;medio;poco;1;1;buena;0;12;12;13
+MS;hombre;17;rural;GT3;juntos;1;1;other;services;course;mother;15 a 30 min;1;0;no;yes;no;yes;no;yes;yes;yes;muy buena;muy alto;muy alto;1;3;mala;0;10;9;10
+MS;hombre;18;urbano;LE3;juntos;1;1;at_home;at_home;course;mother;15 a 30 min;2;0;no;yes;no;yes;yes;yes;no;no;muy buena;medio;medio;1;4;muy buena;6;10;9;10
+MS;mujer;16;rural;LE3;juntos;2;2;other;services;course;father;menos de 15min;2;0;no;no;no;yes;yes;yes;no;yes;excelente;alto;medio;1;1;muy mala;0;11;13;12
+MS;hombre;17;urbano;GT3;juntos;2;2;other;other;course;mother;menos de 15min;1;1;no;no;no;yes;yes;yes;no;yes;muy mala;poco;muy poco;2;3;muy buena;0;7;0;0
+MS;hombre;16;rural;GT3;juntos;3;2;services;other;course;father;15 a 30 min;1;0;no;no;no;no;yes;yes;yes;no;muy buena;muy alto;muy alto;2;3;muy buena;2;11;9;10
+MS;hombre;16;rural;LE3;juntos;1;1;at_home;other;course;mother;15 a 30 min;1;0;no;no;no;yes;yes;yes;yes;no;muy buena;muy alto;muy alto;2;4;muy buena;0;10;10;9
+MS;hombre;18;rural;GT3;juntos;1;1;services;other;course;other;15 a 30 min;1;1;no;yes;no;no;yes;no;yes;yes;excelente;medio;medio;2;3;muy buena;2;9;7;9
+MS;hombre;18;rural;GT3;juntos;3;2;services;other;course;mother;menos de 15min;1;1;no;no;no;no;yes;no;yes;no;mala;medio;muy poco;2;2;muy buena;0;4;0;0
+MS;hombre;19;urbano;GT3;juntos;3;2;at_home;services;course;mother;15 a 30 min;1;3;no;no;no;yes;yes;yes;no;no;buena;poco;muy poco;1;1;regular;4;6;11;9
+MS;hombre;18;urbano;GT3;juntos;3;3;at_home;at_home;course;mother;menos de 15min;2;2;no;yes;no;yes;yes;no;yes;no;muy buena;alto;muy alto;1;3;regular;9;4;8;8
+MS;hombre;16;rural;GT3;juntos;2;2;services;services;course;mother;15 a 30 min;1;0;no;yes;no;yes;yes;yes;yes;yes;excelente;alto;medio;2;4;buena;6;7;8;8
+MS;hombre;19;urbano;GT3;juntos;2;1;at_home;other;course;other;15 a 30 min;1;3;no;no;no;yes;no;no;yes;yes;muy buena;alto;medio;1;3;muy buena;4;8;9;9
+MS;mujer;16;urbano;GT3;separados;3;2;services;at_home;course;mother;15 a 30 min;2;2;no;yes;no;yes;yes;yes;no;yes;mala;muy alto;muy alto;1;1;muy mala;8;5;5;7
+MS;mujer;17;urbano;GT3;juntos;1;1;other;at_home;course;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;no;no;muy buena;medio;poco;1;2;muy buena;9;7;9;10
+MS;hombre;20;rural;GT3;juntos;1;1;other;other;course;other;15 a 30 min;1;1;no;yes;no;no;yes;no;yes;yes;muy buena;alto;medio;2;4;buena;12;8;11;10
+MS;mujer;18;rural;GT3;separados;4;3;services;services;course;mother;menos de 15min;1;0;no;yes;no;no;yes;yes;yes;no;excelente;alto;alto;3;4;mala;8;10;11;10
+MS;hombre;18;rural;GT3;juntos;3;2;other;other;course;mother;15 a 30 min;1;0;no;yes;no;no;no;yes;yes;no;mala;muy alto;muy alto;5;5;muy buena;8;9;10;11
+MS;hombre;19;rural;GT3;juntos;1;1;other;services;home;other;30 min a 1 hora;2;1;no;no;no;no;yes;yes;yes;no;excelente;alto;alto;3;3;mala;8;10;9;11
+MS;hombre;17;urbano;GT3;juntos;3;3;health;other;course;mother;15 a 30 min;2;1;no;yes;no;no;yes;yes;yes;no;muy buena;muy alto;alto;2;3;regular;4;8;9;10
+MS;hombre;18;urbano;LE3;juntos;1;3;at_home;services;course;mother;menos de 15min;1;0;no;no;no;no;yes;no;yes;yes;muy buena;medio;medio;2;3;regular;0;9;10;9
+MS;hombre;19;rural;GT3;juntos;1;1;other;other;home;other;30 min a 1 hora;1;1;no;yes;no;no;yes;yes;yes;no;muy buena;alto;alto;3;3;muy buena;4;8;9;10
+MS;mujer;18;urbano;GT3;separados;1;2;at_home;other;course;mother;15 a 30 min;2;2;no;yes;no;no;yes;yes;no;no;muy buena;medio;medio;1;1;muy buena;2;6;8;8
+MS;mujer;19;urbano;LE3;separados;1;1;at_home;other;course;mother;menos de 15min;1;0;no;yes;no;no;yes;no;no;no;muy mala;alto;alto;1;1;muy buena;0;6;8;7
+MS;mujer;18;rural;GT3;juntos;2;2;other;other;other;mother;15 a 30 min;1;1;no;no;no;no;yes;no;yes;yes;excelente;muy alto;muy alto;1;1;regular;0;8;6;0
+MS;mujer;17;rural;GT3;juntos;0;0;at_home;other;course;mother;15 a 30 min;1;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;medio;1;1;muy buena;0;10;11;11
+MS;mujer;17;rural;LE3;separados;3;1;other;at_home;course;other;15 a 30 min;3;0;no;yes;yes;no;yes;no;no;no;muy buena;poco;medio;2;2;regular;5;8;7;8
+MS;mujer;17;urbano;GT3;juntos;4;2;teacher;services;home;mother;menos de 15min;2;0;yes;yes;no;yes;yes;yes;yes;no;excelente;muy alto;muy alto;1;3;muy buena;0;8;8;0
+MS;mujer;18;rural;LE3;juntos;2;2;services;services;course;mother;menos de 15min;2;1;no;yes;no;yes;yes;yes;yes;no;mala;medio;medio;1;2;buena;3;7;6;8
+MS;mujer;17;urbano;GT3;juntos;4;1;health;at_home;course;mother;menos de 15min;1;0;no;yes;no;no;yes;yes;no;yes;buena;poco;poco;1;1;muy buena;0;8;10;9
+MS;mujer;17;urbano;LE3;juntos;1;2;at_home;other;course;father;menos de 15min;1;0;no;no;no;no;yes;yes;yes;no;excelente;muy alto;muy poco;1;1;regular;0;7;10;10
+MS;mujer;18;urbano;GT3;juntos;1;1;other;other;course;mother;30 min a 1 hora;2;2;no;no;no;yes;yes;yes;no;yes;buena;alto;alto;2;2;muy buena;3;7;8;7
+MS;mujer;18;urbano;GT3;juntos;2;2;services;at_home;reputation;father;15 a 30 min;2;0;no;no;no;yes;no;yes;yes;no;muy buena;medio;muy alto;1;1;muy mala;2;12;13;14
+MS;mujer;17;urbano;GT3;juntos;3;3;services;services;course;mother;15 a 30 min;1;0;no;yes;no;no;yes;yes;yes;no;muy buena;alto;medio;1;1;buena;0;11;12;13
+MS;mujer;18;urbano;LE3;separados;1;2;at_home;other;reputation;mother;15 a 30 min;2;0;no;no;no;no;yes;yes;yes;no;muy buena;alto;medio;1;2;buena;0;12;13;14
+MS;mujer;18;urbano;GT3;juntos;4;4;teacher;teacher;reputation;mother;15 a 30 min;2;0;no;no;no;yes;no;yes;yes;no;muy buena;medio;muy alto;1;2;muy mala;0;18;18;18
+MS;hombre;18;urbano;LE3;juntos;4;4;services;other;reputation;mother;menos de 15min;1;0;no;yes;no;yes;yes;yes;yes;no;excelente;alto;muy alto;1;1;muy buena;3;17;17;17
+MS;mujer;17;urbano;GT3;juntos;4;2;other;other;course;mother;15 a 30 min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;medio;1;2;buena;0;17;18;18
+MS;mujer;18;rural;GT3;juntos;2;2;at_home;other;course;mother;30 min a 1 hora;2;1;no;no;no;yes;yes;yes;no;yes;muy buena;medio;medio;1;1;buena;0;9;0;0
+MS;hombre;18;urbano;LE3;juntos;1;2;at_home;services;home;mother;15 a 30 min;1;0;no;yes;no;no;no;yes;no;no;muy buena;muy poco;alto;5;5;muy mala;8;10;11;11
+MS;hombre;18;rural;GT3;juntos;4;4;at_home;services;other;mother;30 min a 1 hora;1;0;no;yes;yes;yes;yes;yes;yes;yes;mala;muy alto;muy alto;1;1;muy mala;5;12;13;14
+MS;hombre;17;rural;GT3;juntos;1;1;other;services;other;father;30 min a 1 hora;1;0;no;no;no;no;no;no;no;no;muy buena;poco;medio;3;4;buena;4;12;13;14
+MS;mujer;18;urbano;GT3;juntos;2;2;other;other;course;mother;15 a 30 min;2;0;no;yes;no;no;no;yes;yes;yes;muy mala;medio;muy poco;1;1;mala;4;8;8;10
+MS;mujer;18;urbano;LE3;juntos;2;2;services;services;course;father;15 a 30 min;3;0;no;no;no;no;yes;yes;yes;yes;excelente;alto;muy alto;1;4;regular;0;11;12;13
+MS;mujer;18;rural;LE3;separados;4;2;teacher;other;reputation;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;yes;excelente;medio;muy poco;1;1;muy buena;0;5;0;0
+MS;mujer;18;urbano;GT3;juntos;1;1;at_home;services;course;mother;30 min a 1 hora;2;1;no;no;no;no;yes;no;no;no;muy buena;alto;poco;1;2;mala;2;9;10;10
+MS;mujer;19;urbano;GT3;juntos;1;1;at_home;services;other;father;15 a 30 min;1;1;no;no;no;no;yes;no;no;no;excelente;muy alto;muy alto;2;3;mala;0;5;0;0
+MS;mujer;17;urbano;GT3;juntos;4;2;teacher;other;course;father;15 a 30 min;4;0;no;no;no;no;yes;yes;yes;yes;muy buena;poco;medio;3;1;muy buena;0;18;18;18
+MS;mujer;17;rural;LE3;separados;2;1;services;other;reputation;mother;15 a 30 min;2;0;no;no;no;yes;yes;yes;yes;yes;excelente;medio;medio;1;2;mala;5;11;11;12
+MS;mujer;18;urbano;LE3;separados;1;1;at_home;services;course;mother;menos de 15min;2;0;no;no;no;no;yes;yes;no;yes;excelente;poco;medio;1;2;regular;2;8;10;11
+MS;mujer;18;urbano;GT3;juntos;1;2;at_home;at_home;course;father;15 a 30 min;2;0;no;yes;no;no;yes;no;no;no;;muy poco;muy poco;1;1;buena;0;11;11;12
+MS;mujer;19;rural;GT3;separados;1;1;at_home;at_home;course;other;15 a 30 min;2;3;no;yes;no;yes;yes;no;no;yes;buena;muy alto;alto;1;4;muy mala;0;8;0;0
+MS;mujer;18;rural;GT3;juntos;2;2;;other;home;mother;15 a 30 min;3;0;no;no;no;no;yes;yes;yes;yes;muy buena;poco;muy poco;1;1;buena;5;14;14;15
+MS;hombre;17;rural;GT3;juntos;4;3;services;other;home;mother;15 a 30 min;2;1;no;yes;yes;yes;no;yes;yes;yes;muy buena;muy alto;muy alto;1;3;mala;4;10;11;11
+MS;mujer;18;urbano;GT3;juntos;3;3;services;services;course;father;menos de 15min;2;0;no;yes;no;no;yes;yes;no;yes;excelente;medio;alto;1;1;muy buena;0;10;10;10
+MS;mujer;17;rural;GT3;juntos;4;4;teacher;services;other;father;15 a 30 min;2;0;no;yes;yes;yes;yes;yes;yes;no;muy buena;medio;medio;1;2;muy buena;2;12;12;12
+MS;mujer;17;urbano;LE3;separados;3;2;services;other;reputation;mother;15 a 30 min;2;0;no;no;no;no;yes;yes;no;yes;muy mala;;medio;1;2;muy buena;0;15;14;15
+MS;hombre;18;urbano;LE3;juntos;1;1;other;services;;father;15 a 30 min;1;0;no;no;no;no;no;yes;yes;yes;buena;medio;poco;1;2;regular;2;14;13;14
+MS;mujer;18;urbano;LE3;juntos;1;1;at_home;services;course;father;15 a 30 min;3;0;no;no;no;no;yes;yes;yes;no;excelente;medio;poco;1;1;buena;0;19;17;18
+MS;mujer;18;rural;LE3;separados;1;2;at_home;other;course;;30 min a 1 hora;2;0;no;no;no;no;yes;yes;no;yes;muy buena;medio;alto;1;4;muy buena;0;16;15;15
+MS;mujer;18;urbano;GT3;juntos;3;3;services;services;other;mother;15 a 30 min;2;0;no;yes;no;no;yes;yes;yes;yes;muy buena;medio;;1;3;regular;6;13;12;13
+MS;mujer;17;urbano;LE3;juntos;4;4;at_home;;course;mother;menos de 15min;2;0;no;yes;no;yes;yes;yes;yes;yes;mala;medio;alto;1;1;muy mala;4;15;14;15
+MS;mujer;17;rural;GT3;juntos;1;2;other;services;course;father;15 a 30 min;2;0;no;no;no;no;no;yes;no;no;buena;poco;poco;1;2;;0;13;13;13
+MS;hombre;18;rural;GT3;juntos;1;3;at_home;other;course;mother;15 a 30 min;2;0;no;yes;yes;no;yes;yes;no;no;buena;medio;alto;2;4;regular;0;8;10;9
+MS;hombre;18;urbano;LE3;juntos;4;4;teacher;services;other;mother;15 a 30 min;3;0;no;no;no;no;yes;yes;yes;yes;muy buena;poco;poco;2;2;muy buena;0;15;16;16
+MS;mujer;17;rural;GT3;juntos;1;1;other;services;reputation;mother;30 min a 1 hora;1;1;no;yes;no;no;yes;yes;yes;yes;excelente;poco;muy poco;1;2;muy mala;0;8;8;9
+MS;mujer;18;urbano;GT3;juntos;2;3;at_home;services;course;father;15 a 30 min;1;0;no;yes;no;no;yes;yes;yes;yes;excelente;poco;medio;1;2;buena;0;10;10;10
+MS;mujer;18;rural;GT3;juntos;4;4;other;teacher;other;father;30 min a 1 hora;2;0;no;yes;no;no;no;yes;yes;yes;buena;poco;poco;4;2;muy buena;0;7;5;0
+MS;hombre;18;rural;LE3;juntos;1;2;at_home;services;other;father;;1;0;no;yes;no;yes;yes;no;yes;yes;muy buena;medio;medio;2;3;regular;3;9;10;10
+MS;mujer;17;urbano;GT3;juntos;2;2;other;at_home;home;mother;menos de 15min;3;0;no;no;no;yes;yes;yes;no;yes;buena;alto;medio;1;1;regular;8;10;11;12
+MS;mujer;17;rural;GT3;juntos;1;2;other;other;course;mother;menos de 15min;1;0;no;no;no;yes;yes;yes;yes;no;buena;muy alto;muy alto;1;3;muy mala;4;7;8;9
+MS;mujer;18;rural;LE3;juntos;4;4;other;other;reputation;mother;15 a 30 min;3;0;no;no;no;no;yes;yes;yes;no;excelente;alto;alto;1;1;muy mala;0;15;17;17
+MS;mujer;18;rural;GT3;juntos;1;1;other;other;home;mother;mas de 1 hora;3;0;no;no;no;no;yes;yes;yes;no;muy buena;medio;poco;1;2;buena;4;10;11;12
+MS;mujer;19;rural;GT3;juntos;1;1;at_home;other;course;other;15 a 30 min;2;1;no;yes;no;no;yes;yes;yes;yes;muy buena;medio;medio;1;1;regular;4;7;8;9
+MS;mujer;18;rural;LE3;juntos;4;4;teacher;services;course;mother;menos de 15min;2;0;no;no;no;yes;yes;yes;yes;no;excelente;alto;medio;3;4;mala;1;13;14;14
+MS;mujer;18;urbano;GT3;juntos;3;3;other;other;home;mother;menos de 15min;2;0;no;no;no;no;yes;yes;yes;yes;muy buena;muy poco;medio;1;2;muy mala;1;16;16;16
+MS;mujer;17;rural;GT3;juntos;3;1;at_home;other;reputation;mother;menos de 15min;2;0;no;yes;no;yes;no;yes;yes;no;muy buena;muy alto;alto;2;3;muy mala;10;8;9;9
+MS;hombre;18;urbano;GT3;juntos;4;4;teacher;teacher;home;father;menos de 15min;2;0;no;no;no;yes;no;yes;yes;no;buena;poco;alto;1;4;mala;4;17;18;19
+MS;hombre;18;rural;GT3;juntos;2;1;other;other;other;mother;15 a 30 min;1;0;no;no;no;yes;no;yes;yes;yes;muy buena;alto;medio;1;3;muy buena;0;7;7;0
+MS;hombre;17;urbano;GT3;juntos;2;3;other;services;home;father;15 a 30 min;2;0;no;no;no;yes;yes;yes;yes;no;muy buena;alto;medio;1;1;regular;4;14;15;16
+MS;hombre;19;rural;GT3;juntos;1;1;other;services;other;mother;15 a 30 min;1;1;no;no;no;no;yes;yes;no;no;muy buena;medio;poco;1;3;muy buena;0;5;8;0
+MS;hombre;18;rural;GT3;juntos;4;2;other;other;home;father;15 a 30 min;1;1;no;no;yes;no;yes;yes;no;no;excelente;alto;medio;4;3;regular;0;7;7;0
+MS;mujer;18;rural;GT3;juntos;2;2;at_home;other;other;mother;15 a 30 min;3;0;no;no;no;no;yes;yes;no;no;excelente;medio;medio;1;3;buena;0;14;17;15
+MS;mujer;17;urbano;GT3;juntos;4;3;teacher;other;other;mother;15 a 30 min;2;0;no;no;no;no;yes;yes;yes;no;excelente;muy alto;alto;1;1;muy mala;0;6;9;11
+MS;mujer;18;rural;GT3;juntos;4;4;teacher;at_home;reputation;mother;;1;0;no;yes;no;yes;yes;yes;yes;yes;muy buena;alto;medio;2;2;muy buena;4;7;9;10
+MS;mujer;19;rural;GT3;juntos;2;3;services;other;course;mother;menos de 15min;3;1;no;no;no;yes;no;yes;yes;no;excelente;alto;poco;1;2;muy buena;4;10;11;10
+MS;mujer;18;urbano;LE3;juntos;3;1;teacher;services;course;;menos de 15min;2;0;no;yes;no;no;yes;yes;yes;no;muy buena;medio;alto;1;1;muy mala;4;15;15;16
+MS;mujer;18;urbano;GT3;juntos;1;1;other;other;course;mother;15 a 30 min;2;0;no;no;no;yes;yes;yes;no;no;muy mala;muy poco;muy poco;1;1;muy buena;6;11;12;9
+MS;masculino;17;urbano;LE3;juntos;3;1;services;;;mother;15 a 30 min;1;0;no;no;no;no;no;yes;yes;no;mala;alto;muy alto;3;4;mala;6;10;10;10
+MS;masculino;18;rural;LE3;juntos;3;2;;other;course;mother;30 min a 1 hora;1;0;no;no;no;no;no;yes;yes;no;muy buena;alto;muy poco;3;4;muy buena;4;10;11;11
