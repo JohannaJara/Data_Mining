@@ -1,0 +1,123 @@
+﻿Item;Country;Region;Hemisphere;HappinessScore;HDI;GDP_PerCapita;Beer_PerCapita;Spirit_PerCapita;Wine_PerCapita
+0;Denmark;Western Europe;north;;928.0;53.579;224.0;81.0;278.0
+1;;Western Europe;north;7.509;943.0;79.866;185.0;100.0;280.0
+2;Iceland;Western Europe;north;7.501;933.0;;233.0;61.0;78.0
+3;Norway;Western Europe;north;7.498;951.0;70.89;169.0;71.0;129.0
+4;Finland;Western Europe;north;7.413;;43.433;263.0;133.0;97.0
+5;Canada;North America;north;7.404;922.0;42.349;240.0;122.0;100.0
+6;Netherlands;Western Europe;;7.339;928.0;;251.0;88.0;
+7;New Zealand;Australia and New Zealand;south;7.334;;40.332;;79.0;175.0
+8;Australia;Australia and New Zealand;south;;938.0;49.897;261.0;;
+9;Sweden;Western Europe;north;;932.0;51.845;152.0;60.0;186.0
+10;;;north;7.267;902.0;37.181;63.0;69.0;9.0
+11;;Western Europe;north;7.119;906.0;;279.0;75.0;191.0
+12;United States;;north;7.104;922.0;57.589;249.0;158.0;84.0
+13;Costa Rica;Latin America and Caribbean;north;7.087;;;;87.0;11.0
+14;Germany;Western Europe;north;6.994;934.0;42.233;;;175.0
+15;Brazil;;both;6.952;758.0;8.639;245.0;145.0;16.0
+16;Belgium;Western Europe;;6.929;915.0;41.261;295.0;84.0;212.0
+17;;Western Europe;north;6.907;934.0;64.1;313.0;118.0;
+18;Luxembourg;Western Europe;;6.871;;100.739;236.0;133.0;271.0
+19;;;north;6.778;772.0;8.444;238.0;68.0;
+20;Singapore;Southeastern Asia;north;6.739;;55.243;60.0;12.0;11.0
+21;United Kingdom;Western Europe;north;6.725;920.0;40.412;;126.0;195.0
+22;Chile;Latin America and Caribbean;south;6.705;842.0;13.961;130.0;124.0;172.0
+23;;Latin America and Caribbean;north;;785.0;14.333;285.0;104.0;
+24;Argentina;Latin America and Caribbean;south;6.65;822.0;12.654;193.0;25.0;221.0
+25;Czech Republic;Central and Eastern Europe;north;6.596;;18.484;361.0;170.0;134.0
+26;United Arab Emirates;Middle East and Northern Africa;;;862.0;38.518;16.0;135.0;
+27;Uruguay;Latin America and Caribbean;;6.545;802.0;15.298;115.0;35.0;220.0
+28;Malta;Western Europe;north;6.488;875.0;24.771;149.0;100.0;120.0
+29;Colombia;Latin America and Caribbean;both;6.481;;5.757;;76.0;3.0
+30;France;Western Europe;;6.478;899.0;36.87;127.0;;370.0
+31;Thailand;Southeastern Asia;north;6.474;748.0;5.979;99.0;258.0;1.0
+32;Qatar;Middle East and Northern Africa;;6.375;;;1.0;42.0;7.0
+33;Spain;Western Europe;north;;889.0;26.617;;;112.0
+34;Guatemala;Latin America and Caribbean;north;6.324;;4.141;;69.0;2.0
+35;Suriname;Latin America and Caribbean;north;6.269;719.0;;128.0;178.0;7.0
+36;Bahrain;Middle East and Northern Africa;;6.218;846.0;;42.0;;7.0
+37;Trinidad and Tobago;Latin America and Caribbean;north;6.168;785.0;16.352;197.0;156.0;7.0
+38;;Latin America and Caribbean;north;6.084;766.0;15.692;333.0;;3.0
+39;Slovakia;Central and Eastern Europe;north;6.078;853.0;;196.0;;116.0
+40;El Salvador;Latin America and Caribbean;north;;;3.769;;;2.0
+41;;Latin America and Caribbean;north;5.992;657.0;2.144;78.0;;1.0
+42;;Central and Eastern Europe;north;5.987;703.0;;25.0;101.0;8.0
+43;Italy;Western Europe;north;5.977;878.0;30.669;85.0;42.0;237.0
+44;Ecuador;Latin America and Caribbean;both;5.976;749.0;6.019;162.0;74.0;3.0
+45;Belize;;;5.956;709.0;4.96;263.0;114.0;8.0
+46;Japan;Eastern Asia;noth;5.921;907.0;38.972;77.0;;
+47;Kazakhstan;Central and Eastern Europe;;5.919;797.0;7.715;124.0;246.0;12.0
+48;Moldova;;north;5.897;697.0;1.913;109.0;226.0;18.0
+49;Russian Federation;;north;;815.0;8.748;247.0;326.0;73.0
+50;Poland;;;5.835;860.0;12.415;343.0;;56.0
+51;South Korea;Eastern Asia;noth;5.835;900.0;27.105;140.0;16.0;9.0
+52;;Latin America and Caribbean;;5.822;;3.117;;41.0;8.0
+53;Lithuania;;north;5.813;855.0;14.913;343.0;244.0;56.0
+54;;Central and Eastern Europe;north;5.802;805.0;;142.0;373.0;42.0
+55;Slovenia;Central and Eastern Europe;north;5.768;894.0;21.65;270.0;51.0;
+56;;Latin America and Caribbean;;;748.0;6.031;;160.0;21.0
+57;Turkmenistan;Central and Eastern Europe;north;5.658;705.0;6.389;19.0;71.0;32.0
+58;Mauritius;Sub-Saharan Africa;north;5.648;788.0;;;31.0;18.0
+59;Latvia;;north;5.56;844.0;14.07;281.0;216.0;62.0
+60;;Western Europe;;5.546;867.0;23.541;192.0;154.0;
+61;Paraguay;Latin America and Caribbean;south;5.538;702.0;4.078;;;74.0
+62;Romania;Central and Eastern Europe;north;5.528;807.0;;;122.0;167.0
+63;Estonia;Central and Eastern Europe;north;;868.0;17.737;224.0;194.0;59.0
+64;Jamaica;Latin America and Caribbean;;5.51;732.0;4.879;82.0;97.0;9.0
+65;Croatia;Central and Eastern Europe;north;5.488;828.0;12.299;;87.0;
+66;Turkey;Middle East and Northern Africa;north;5.389;787.0;10.863;51.0;22.0;7.0
+67;Jordan;;north;;735.0;4.088;6.0;21.0;1.0
+68;Azerbaijan;Central and Eastern Europe;north;5.291;757.0;3.881;;46.0;5.0
+69;Philippines;Southeastern Asia;north;;696.0;2.951;71.0;186.0;
+70;;Eastern Asia;noth;;748.0;8.117;79.0;192.0;8.0
+71;;Central and Eastern Europe;north;5.185;669.0;;31.0;97.0;6.0
+72;Serbia;;north;5.177;785.0;5.426;283.0;131.0;127.0
+73;Bosnia and Herzegovina;Central and Eastern Europe;north;5.163;766.0;4.809;76.0;173.0;8.0
+74;Montenegro;Central and Eastern Europe;north;;810.0;7.029;31.0;114.0;128.0
+75;;Latin America and Caribbean;;5.155;733.0;;193.0;147.0;9.0
+76;;Middle East and Northern Africa;north;5.151;662.0;;;6.0;10.0
+77;Hungary;Central and Eastern Europe;north;;;;234.0;215.0;185.0
+78;Lebanon;Middle East and Northern Africa;;;753.0;8.257;20.0;55.0;31.0
+79;Portugal;Western Europe;north;5.123;845.0;19.872;194.0;67.0;339.0
+80;;Central and Eastern Europe;;5.121;756.0;4.834;106.0;27.0;
+81;Vietnam;Southeastern Asia;north;5.061;689.0;;111.0;2.0;1.0
+82;Tunisia;Middle East and Northern Africa;north;5.045;732.0;3.689;;3.0;20.0
+83;;Western Europe;north;5.033;868.0;17.882;133.0;;218.0
+84;Mongolia;Eastern Asia;noth;;743.0;3.694;77.0;;8.0
+85;Nigeria;Sub-Saharan Africa;north;4.875;530.0;2.176;;5.0;2.0
+86;Honduras;;north;4.871;614.0;2.375;69.0;;
+87;Zambia;Sub-Saharan Africa;;4.795;;1.263;32.0;19.0;4.0
+88;Albania;Central and Eastern Europe;north;;782.0;4.132;89.0;132.0;
+89;Sierra Leone;;north;4.635;413.0;;25.0;3.0;
+90;;Sub-Saharan Africa;south;4.574;645.0;4.561;;3.0;1.0
+91;Cameroon;Sub-Saharan Africa;south;4.513;553.0;1.375;147.0;;
+92;South Africa;Sub-Saharan Africa;south;4.459;696.0;;225.0;76.0;81.0
+93;;Middle East and Northern Africa;north;4.362;;3.548;6.0;4.0;1.0
+94;;Central and Eastern Europe;north;4.36;749.0;3.606;21.0;179.0;11.0
+95;;Sub-Saharan Africa;both;4.356;;1.463;;22.0;2.0
+96;Ukraine;Central and Eastern Europe;north;;746.0;;206.0;;
+97;;;north;4.276;;1.517;31.0;3.0;10.0
+98;Dem. Rep. Congo;Sub-Saharan Africa;south;4.272;452.0;;32.0;3.0;
+99;Georgia;Central and Eastern Europe;north;;776.0;3.866;52.0;100.0;
+100;;Sub-Saharan Africa;;4.236;612.0;498.0;76.0;1.0;
+101;Senegal;Sub-Saharan Africa;north;;;953.0;;;
+102;Bulgaria;Central and Eastern Europe;north;4.217;;7.469;231.0;252.0;94.0
+103;Zimbabwe;Sub-Saharan Africa;south;4.193;532.0;1.029;64.0;18.0;4.0
+104;;Sub-Saharan Africa;south;4.156;474.0;300.0;8.0;11.0;1.0
+105;Gabon;Sub-Saharan Africa;south;4.121;;7.079;347.0;98.0;59.0
+106;;Sub-Saharan Africa;north;4.073;421.0;780.0;5.0;;
+107;Haiti;;north;4.028;496.0;735.0;1.0;;1.0
+108;Botswana;Sub-Saharan Africa;south;;;6.954;173.0;35.0;35.0
+109;Comoros;Sub-Saharan Africa;south;3.956;502.0;775.0;;3.0;1.0
+110;Cote d'Ivoire;Sub-Saharan Africa;;3.916;486.0;1.535;;1.0;7.0
+111;Cambodia;Southeastern Asia;north;3.907;576.0;1.27;57.0;;1.0
+112;Angola;Sub-Saharan Africa;;3.866;;3.309;217.0;57.0;45.0
+113;Niger;Sub-Saharan Africa;;3.856;351.0;;3.0;2.0;1.0
+114;Chad;Sub-Saharan Africa;north;3.763;405.0;651.0;15.0;1.0;1.0
+115;Burkina Faso;Sub-Saharan Africa;north;3.739;;614.0;25.0;7.0;
+116;Madagascar;Sub-Saharan Africa;south;3.695;;402.0;;15.0;4.0
+117;;;south;3.666;533.0;878.0;36.0;;
+118;Liberia;;north;3.622;432.0;455.0;19.0;152.0;2.0
+119;Benin;;north;3.484;512.0;789.0;34.0;4.0;
+120;Togo;;north;;500.0;577.0;36.0;2.0;19.0
+121;Syria;Middle East and Northern Africa;north;3.069;;;5.0;35.0;16.0
