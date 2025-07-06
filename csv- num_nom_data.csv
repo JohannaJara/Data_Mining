@@ -1,0 +1,106 @@
+﻿ID_Cliente,Tipo_Suscripcion,Region,Edad,Ingresos_Mensuales,Dispositivo_Principal,Frecuencia_Uso,Horas_Visualizacion_Mensual,Soporte_Contactado,Churn
+1,Premium,Norte,35,4500,Smart TV,Alta,120,No,Si
+2,Basica,Sur,28,1800,Movil,Media,45,No,No
+3,Estandar,Este,50,2900,Tablet,Baja,15,Si,No
+4,Premium,Oeste,42,5200,Laptop,Alta,150,No,No
+5,Basica,Norte,22,2100,Movil,Media,60,No,Si
+6,Estandar,Sur,60,3500,Smart TV,Baja,20,Si,No
+7,Premium,Este,38,4800,Laptop,Alta,130,No,No
+8,Basica,Oeste,30,2000,Movil,Media,50,No,No
+9,Estandar,Norte,55,3100,Tablet,Baja,10,Si,No
+10,Premium,Sur,40,4900,Smart TV,Alta,140,No,No
+11,Basica,Este,25,1950,Movil,Media,55,No,No
+12,Estandar,Oeste,65,3300,Laptop,Baja,25,Si,No
+13,Premium,Norte,33,4600,Smart TV,Alta,125,No,No
+14,Basica,Sur,29,1900,Movil,Media,40,No,No
+15,Estandar,Este,52,3000,Tablet,Baja,18,Si,No
+16,Premium,Oeste,44,5300,Laptop,Alta,160,No,Si
+17,Basica,Norte,23,2200,Movil,Media,65,No,Si
+18,Estandar,Sur,58,3600,Smart TV,Baja,22,Si,Si
+19,Premium,Este,36,4700,Laptop,Alta,135,No,No
+20,Basica,Oeste,31,2150,Movil,Media,58,No,No
+21,Estandar,Norte,53,3200,Tablet,Baja,12,Si,No
+22,Premium,Sur,41,5000,Smart TV,Alta,145,No,No
+23,Basica,Este,26,2050,Movil,Media,52,No,No
+24,Estandar,Oeste,62,3400,Laptop,Baja,28,Si,No
+25,Premium,Norte,34,4750,Smart TV,Alta,130,No,No
+26,Basica,Sur,27,1850,Movil,Media,48,No,No
+27,Estandar,Este,51,2950,Tablet,Baja,16,Si,Si
+28,Premium,Oeste,43,5250,Laptop,Alta,155,No,No
+29,Basica,Norte,24,2150,Movil,Media,62,No,No
+30,Estandar,Sur,59,3550,Smart TV,Baja,21,Si,No
+31,Premium,Este,37,4850,Laptop,Alta,138,No,No
+32,Basica,Oeste,32,2080,Movil,Media,53,No,Si
+33,Estandar,Norte,56,3150,Tablet,Baja,11,Si,Si
+34,Premium,Sur,39,4950,Smart TV,Alta,142,No,Si
+35,Basica,Este,26,2000,Movil,Media,47,No,No
+36,Estandar,Oeste,61,3350,Laptop,Baja,26,Si,Si
+37,Premium,Norte,36,4700,Smart TV,Alta,133,No,No
+38,Basica,Sur,29,1880,Movil,Media,43,No,No
+39,Estandar,Este,54,3050,Tablet,Baja,19,Si,Si
+40,Premium,Oeste,45,5400,Laptop,Alta,165,No,No
+41,Basica,Norte,25,2250,Movil,Media,68,No,No
+42,Estandar,Sur,60,3650,Smart TV,Baja,24,Si,No
+43,Premium,Este,38,4900,Laptop,Alta,140,No,No
+44,Basica,Oeste,30,2100,Movil,Media,50,No,No
+45,Estandar,Norte,57,3250,Tablet,Baja,13,Si,Si
+46,Premium,Sur,40,5050,Smart TV,Alta,148,No,Si
+47,Basica,Este,27,2100,Movil,Media,55,No,Si
+48,Estandar,Oeste,63,3450,Laptop,Baja,30,Si,No
+49,Premium,Norte,35,4650,Smart TV,Alta,128,No,No
+50,Basica,Sur,28,1920,Movil,Media,46,No,No
+51,Estandar,Este,50,2980,Tablet,Baja,17,Si,No
+52,Premium,Oeste,42,5350,Laptop,Alta,158,No,No
+53,Basica,Norte,22,2120,Movil,Media,63,No,No
+54,Estandar,Sur,60,3580,Smart TV,Baja,23,Si,No
+55,Premium,Este,38,4820,Laptop,Alta,132,No,Si
+56,Basica,Oeste,30,2030,Movil,Media,51,No,No
+57,Estandar,Norte,55,3120,Tablet,Baja,14,Si,No
+58,Premium,Sur,40,4920,Smart TV,Alta,143,No,Si
+59,Basica,Este,25,1970,Movil,Media,56,No,No
+60,Estandar,Oeste,65,3320,Laptop,Baja,27,Si,No
+61,Premium,Norte,33,4620,Smart TV,Alta,127,No,No
+62,Basica,Sur,29,1910,Movil,Media,42,No,Si
+63,Estandar,Este,52,3020,Tablet,Baja,20,Si,No
+64,Premium,Oeste,44,5320,Laptop,Alta,162,No,No
+65,Basica,Norte,23,2220,Movil,Media,67,No,No
+66,Estandar,Sur,58,3620,Smart TV,Baja,26,Si,No
+67,Premium,Este,36,4720,Laptop,Alta,137,No,No
+68,Basica,Oeste,31,2170,Movil,Media,59,No,No
+69,Estandar,Norte,53,3220,Tablet,Baja,15,Si,No
+70,Premium,Sur,41,5020,Smart TV,Alta,147,No,Si
+71,Basica,Este,26,2070,Movil,Media,54,No,No
+72,Estandar,Oeste,62,3420,Laptop,Baja,29,Si,Si
+73,Premium,Norte,34,4770,Smart TV,Alta,132,No,No
+74,Basica,Sur,27,1870,Movil,Media,49,No,No
+75,Estandar,Este,51,2970,Tablet,Baja,18,Si,Si
+76,Premium,Oeste,43,5270,Laptop,Alta,157,No,No
+77,Basica,Norte,24,2170,Movil,Media,64,No,Si
+78,Estandar,Sur,59,3570,Smart TV,Baja,22,Si,No
+79,Premium,Este,37,4870,Laptop,Alta,139,No,No
+80,Basica,Oeste,32,2100,Movil,Media,54,No,No
+81,Estandar,Norte,56,3170,Tablet,Baja,13,Si,Si
+82,Premium,Sur,39,4970,Smart TV,Alta,144,No,Si
+83,Basica,Este,26,2020,Movil,Media,49,No,No
+84,Estandar,Oeste,61,3370,Laptop,Baja,28,Si,No
+85,Premium,Norte,36,4720,Smart TV,Alta,135,No,No
+86,Basica,Sur,29,1900,Movil,Media,45,No,No
+87,Estandar,Este,54,3070,Tablet,Baja,21,Si,Si
+88,Premium,Oeste,45,5420,Laptop,Alta,167,No,Si
+89,Basica,Norte,25,2270,Movil,Media,70,No,No
+90,Estandar,Sur,60,3670,Smart TV,Baja,25,Si,No
+91,Premium,Este,38,4920,Laptop,Alta,142,No,No
+92,Basica,Oeste,30,2120,Movil,Media,52,No,Si
+93,Estandar,Norte,57,3270,Tablet,Baja,16,Si,No
+94,Premium,Sur,40,5070,Smart TV,Alta,150,No,Si
+95,Basica,Este,27,2120,Movil,Media,57,No,No
+96,Estandar,Oeste,63,3470,Laptop,Baja,32,Si,No
+97,Premium,Norte,35,4670,Smart TV,Alta,130,No,No
+98,Basica,Sur,28,1940,Movil,Media,48,No,No
+99,Estandar,Este,50,3000,Tablet,Baja,19,Si,Si
+100,Premium,Oeste,42,5370,Laptop,Alta,160,No,No
+101,Basica,Norte,22,2140,Movil,Media,65,No,Si
+102,Estandar,Sur,60,3600,Smart TV,Baja,24,Si,Si
+103,Premium,Este,38,4840,Laptop,Alta,134,No,Si
+104,Basica,Oeste,30,2050,Movil,Media,53,No,No
+105,Estandar,Norte,55,3140,Tablet,Baja,15,Si,Si
